@@ -1,0 +1,396 @@
+PB	PK	NN
+PG
+PF
+PA	PB	NN
+PA	PH	NC
+PB	PA	PB
+PB	NN
+
+PA
+PH	PE	NN
+NN	NE	NL	PA
+PK
+PH	PK
+PH
+NN
+PK	PH	PH
+PA
+PH	PH	NC
+PA
+
+PB	PH	PH	PH	PH
+NE
+NN
+PB	PB	PH
+PK	PH	PB	PH
+PH
+PH
+
+PB	PB	NC
+PH
+PB	PA
+PH
+PH	NN
+NN
+PF	NB
+
+NB	PA	PH
+PB	NN
+
+PK	NC
+NN	NN	NN
+NB	PA	PA	PB
+PB	NN
+PA	NE
+NN	NB	PA	NN
+PK	PH
+PA
+
+
+PA
+PH	PK	PH
+PA	PB	PA	PA	PB
+PE	PC	PH
+NL
+NJ	NE
+PA	PA	PB
+
+PA	PH
+NN	PH
+NN	PK	PH
+
+
+PE
+PE
+
+
+
+PA	PA
+NN
+
+
+PH
+PB
+
+
+
+
+PA
+
+PK
+PA	PB
+
+
+
+PB	PB
+PA
+
+PK
+PH
+
+NL	NE
+PK	PH
+PA
+NL
+
+PF	NN
+
+PK
+
+
+
+NC
+PE	PH	NC
+PA	PH
+
+
+
+PB	PH
+NC
+NB	NE	PG	NN	PH
+PE
+
+
+
+PA	PA
+PH	PH
+PA	PA	PH
+PA	PA
+
+PD
+
+
+PE
+PH
+
+
+PA	PB	PA
+NI
+
+
+PH	NB
+PE	PB
+
+PK
+NB
+
+
+
+
+NE	PH
+NE	NE
+
+PG
+NE	PE
+
+
+
+PH
+PH
+PH
+
+PA
+NC	PH	NC
+PA	PA
+
+
+
+NN	PA	NL
+NN
+
+PH
+PH
+
+PH
+PH	PE	PH
+PE	PH	PK
+PH	PA
+PH	PH	PA
+
+PB	PB	NL
+PB	NE
+NE
+
+
+PH
+PH	PE	PH	PK	PH	PH
+PH
+
+PH
+NC
+PH
+PH	NC	NC
+PH	PA	PH	PA
+
+
+
+
+PA	PH	PE	PH	PH
+NC	NC
+PH
+
+PB	NL
+PA	PH
+PH	PK	NC
+PB	PA	PB	PE
+NE
+PK	PH
+
+NE
+PA
+PH	PA	PH
+PH	PB	PH	NC
+PH
+PH	PH	NB	PA
+PH	PH
+
+
+
+
+
+PH	ND
+PH	ND
+PB	PA	NN
+PE
+PE
+PB	PB	NI
+PD
+PA	PH
+NE	PE	PA
+PH	PB	PH	ND
+PH
+PB	NL	NB	PH	NL
+PK
+PE
+PH	PE
+PA
+
+PB
+PB
+PB	PH
+ND
+
+
+PH
+PB	PH	PB	NL	PA	NN	PH
+
+PH	PH
+PA
+PB
+PH	NC
+PB	PK	NN	NN	NN	PB
+PE
+
+PH
+
+PH
+
+
+
+NN	PA
+
+PE	PH	PK	PH	PE
+PB	PA	PB
+
+PA
+PH	PE	PH	PA	PA	PA	PA
+
+
+
+PH	PK	PE	PA
+PH
+PH
+
+PH
+
+
+NI
+PH	PH	PH	PH	PA
+PH	PH
+PB	PE
+PA
+
+PA	ND
+PA
+NE
+PB
+
+
+PH	PA
+PH
+
+PH
+
+PH
+
+
+PH	PH	PE
+PH	PK	NB
+PH	PA
+
+
+PA
+PH	PA	PA
+
+PH	NI
+
+
+
+
+PH	PE
+PH
+PH	PA	PH
+
+PH
+PB	PB
+PH	PH	PH
+
+PH
+
+
+PH	PH	PK	PH	PH
+PH	PH
+PH	PA	PB
+
+
+
+NC	PH	PB	PA	PA
+
+NN	NL
+
+PA	PB	NN
+PK	PB	PH
+
+
+
+NE
+PH	PE	PE
+PB	PB	PA
+
+PB	PH
+PA	NL
+PA	PA	PH	PH
+PB	PB	PG	PH
+
+PA	PA	PH	PA	PA
+PA	PH	PH	PG	PH	PB
+PE
+
+
+PA
+PH
+PA	PA
+
+
+
+PH
+PE	PA
+PB	PB	PA
+PH	PH
+
+
+
+PB	PH
+PK
+
+PK
+PE	PA
+PH
+PB
+
+PG	PA
+
+PB	NC
+
+
+NN	PB
+
+
+PA
+
+PH
+PB
+PH
+
+
+PB	PH	PH	PH	NC
+PB
+PH
+NB	PH	PH	PH	PH
+PH	PH	PH
+PH	PB
+PA	PA	PA	NA
+PB
+PA	PH	PA
+PH
+PH
+NN	NN
+
+PH	PB	PB	NE
+PK	PH
+PA	PH	PA	PB	NC
+
+PA	NC
+PD
+PK	PH
+

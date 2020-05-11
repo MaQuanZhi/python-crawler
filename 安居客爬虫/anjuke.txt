@@ -1,0 +1,751 @@
+name	area	block	address	sale_num	build_year	mid_price	image	url	all_num
+中贸广场	碑林区	南稍门	南关正街,近友谊西路	141	2012年	15714	https://pic1.ajkimg.com/display/ajk/c8d81fdcd08752134ec377f3769d0e7f/180x135c.jpg	https://m.anjuke.com/xa/community/314275/	4473户
+伊顿公馆	碑林区	边家村	白庙路	6	2013年	23536	https://pic1.ajkimg.com/display/ajk/e1420d6ba63afa73fcbf0a91a289a9cd/180x135c.jpg	https://m.anjuke.com/xa/community/398503/	2235户
+高山流水星币传说	碑林区	环城南路	仁厚庄南路	84	2013年	20031	https://pic1.ajkimg.com/display/ajk/0b4667aa96a9bd1df8430d3f82d32926/180x135c.jpg	https://m.anjuke.com/xa/community/358246/	2814户
+新旅城	碑林区	文艺路	建设西路中段65号	238	2012年	17856	https://pic1.ajkimg.com/display/ajk/d77069a5383434ab2a688f8cd9f77bd8/180x135c.jpg	https://m.anjuke.com/xa/community/378279/	5827户
+翡翠明珠	碑林区	南稍门	长安路草场坡甲字50号	149	2012年	16513	https://pic1.ajkimg.com/display/ajk/f12d560e7cd5d032a44e11970d2fcc6f/180x135c.jpg	https://m.anjuke.com/xa/community/300412/	1842户
+九锦台	碑林区	何家村	含光北路23号	26	2016年	20296	https://pic1.ajkimg.com/display/ajk/3af481cde1c58e8a4b13a485ea7bb40e/180x135c.jpg	https://m.anjuke.com/xa/community/274775/	2149户
+荣城小区	碑林区	体育场	草场坡8号	147	2010年	18072	https://pic1.ajkimg.com/display/ajk/0ddccf58917297be0f75ecd83076926c/180x135c.jpg	https://m.anjuke.com/xa/community/829879/	1623户
+万达广场公寓	碑林区	李家村	雁塔路北段8号	222	2008年	13928	https://pic1.ajkimg.com/display/ajk/3df3ce4a75794f53aa28a274d12db58e/180x135c.jpg	https://m.anjuke.com/xa/community/875536/	2903户
+兰蒂斯城(三期)	碑林区	西安交通大学	交大街,近北沙坡街	93	2014年	18011	https://pic1.ajkimg.com/display/ajk/bb45820b5f6cc456aff51ee52adb016b/180x135c.jpg	https://m.anjuke.com/xa/community/830908/	2113户
+金色城市	碑林区	文艺路	文艺北路50号	99	2011年	15820	https://pic1.ajkimg.com/display/ajk/4cad549e9292c31bf4201cd7753af480/180x135c.jpg	https://m.anjuke.com/xa/community/325268/	1371户
+泰华世纪新城	碑林区	文艺路	友谊东路	110	2008年	15575	https://pic1.ajkimg.com/display/ajk/dda28dce7754dcb2a073c980c7576b9c/180x135c.jpg	https://m.anjuke.com/xa/community/274829/	1105户
+海星未来城	碑林区	太白立交	二环南路西段155号	63	2011年	16306	https://pic1.ajkimg.com/display/ajk/70392a9403fb293d49900d925312fe4b/180x135c.jpg	https://m.anjuke.com/xa/community/572063/	1443户
+飞天花园小区	碑林区	太白立交	南二环中段15号	23	2000年	10883	https://pic1.ajkimg.com/display/ajk/9312115e8ce5e04cf7455ada80d0d53f/180x135c.jpg	https://m.anjuke.com/xa/community/298979/	774户
+兴庆宫	碑林区	东关正街	新廓门33号	122	2013年	17139	https://pic1.ajkimg.com/display/ajk/d6a5fca736c167fb19e5280fb83eecd3/180x135c.jpg	https://m.anjuke.com/xa/community/398678/	2129户
+钟楼小区	碑林区	广济街	西大街	15	2006年	11428	https://pic1.ajkimg.com/display/ajk/c92fa2d8e2b6cff11e79e8e8f30907ec/180x135c.jpg	https://m.anjuke.com/xa/community/299886/	1145户
+东泰城市之光北区	碑林区	大学南路	边东街18号	91	2011年	22230	https://pic1.ajkimg.com/display/ajk/1a8a8c19e01eb46f59199b6d2bb13871/180x135c.jpg	https://m.anjuke.com/xa/community/368129/	2130户
+华豪丽晶	碑林区	友谊西路	友谊西路236号	51	2014年	20437	https://pic1.ajkimg.com/display/ajk/2dd8bacdff0f15870d0cb2f7d1906213/180x135c.jpg	https://m.anjuke.com/xa/community/306124/	3135户
+盛世太白	碑林区	太白立交	南二环	64	2007年	13521	https://pic1.ajkimg.com/display/ajk/c43bc109b1587a28f13d9b750d287dbb/180x135c.jpg	https://m.anjuke.com/xa/community/274898/	1305户
+长安壹品	碑林区	何家村	含光北路37号	57	2012年	18653	https://pic1.ajkimg.com/display/ajk/96574e72506913d5fb11ac5b5e5d0a31/180x135c.jpg	https://m.anjuke.com/xa/community/331354/	850户
+常春藤花园(北区)	碑林区	西安交通大学	兴庆南路	41	2012年	20918	https://pic1.ajkimg.com/display/ajk/1b0bb193202e65e65cd99a63c91e6452/180x135c.jpg	https://m.anjuke.com/xa/community/830022/	504户
+绿地乐和城	碑林区	太乙路	南二环	77	2012年	11999	https://pic1.ajkimg.com/display/ajk/1c0c771b01724c49ae023cd8008f6561/180x135c.jpg	https://m.anjuke.com/xa/community/398747/	1050户
+长安壹栋	碑林区	南稍门	新文巷	91	2012年	14767	https://pic1.ajkimg.com/display/ajk/d46609fb6fa37e490ce79d2aac08573e/180x135c.jpg	https://m.anjuke.com/xa/community/363733/	1254户
+丹尼尔窑坊小区	碑林区	环城南路	伞塔路169号	51	2000年	10178	https://pic1.ajkimg.com/display/ajk/404c5867802f4dbd57f36dda9fd6a758/180x135c.jpg	https://m.anjuke.com/xa/community/364189/	1785户
+东方广场	碑林区	西安交通大学	南二环东段1号	78	2005年	13061	https://pic1.ajkimg.com/display/ajk/38d06f3a52c622d2c8c05d78604b4f46/180x135c.jpg	https://m.anjuke.com/xa/community/275005/	780户
+东方星苑	碑林区	东关正街	东关正街109号	45	2007年	12267	https://pic1.ajkimg.com/display/ajk/36c57ee7505820cc27b26040de201666/180x135c.jpg	https://m.anjuke.com/xa/community/274744/	1699户
+东新城市花园	碑林区	西安交通大学	公园南路,近建工路	41	2007年	15278	https://pic1.ajkimg.com/display/ajk/b9cc1d4a54d69bdefef567c7d78b6618/180x135c.jpg	https://m.anjuke.com/xa/community/413625/	593户
+华龙太乙城	碑林区	太乙路	太乙路,近建设路	5	2015年	13866	https://pic1.ajkimg.com/display/ajk/853ded449bde271374b3938e07480c6b/180x135c.jpg	https://m.anjuke.com/xa/community/398682/	2702户
+凯旋城	碑林区	太白立交	西何家路	6	2007年	16991	https://pic1.ajkimg.com/display/ajk/f609b81c1e8144b3592bcb5cbf254702/180x135c.jpg	https://m.anjuke.com/xa/community/275146/	2172户
+大话南门	碑林区	南稍门	长安北路	11	2013年	12784	https://pic1.ajkimg.com/display/ajk/2e3181fed71460640809ac90f68947b1/180x135c.jpg	https://m.anjuke.com/xa/community/320110/	4004户
+学府首座	碑林区	西安交通大学	兴庆南路9号	11	2013年	18715	https://pic1.ajkimg.com/display/ajk/d820e4ae1e454945472957c09be53960/180x135c.jpg	https://m.anjuke.com/xa/community/336814/	2813户
+南门国际	碑林区	南门	体育馆南路18号	48	2010年	15207	https://pic1.ajkimg.com/display/ajk/9e82913d3d9cae98f38ba88b11bcde23/180x135c.jpg	https://m.anjuke.com/xa/community/875534/	1070户
+保吉巷小区	碑林区	环城南路	南广济街35号	31	1999年	11110	https://pic1.ajkimg.com/display/ajk/94756097f31f5301c8eb6d69450a185b/180x135c.jpg	https://m.anjuke.com/xa/community/303599/	1029户
+中国银行家属院	碑林区	西工大	建设西路108号	11	2010年	10181	https://pic1.ajkimg.com/display/ajk/d73bb9221315582067ac24e6f8800047/180x135c.jpg	https://m.anjuke.com/xa/community/422526/	117户
+曼城国际	碑林区	太乙路	南二环路,近太乙路	61	2012年	16826	https://pic1.ajkimg.com/display/ajk/e8ba6f7696905b9e8813c79fb002b0ea/180x135c.jpg	https://m.anjuke.com/xa/community/274424/	1362户
+常春藤花园(南区)	碑林区	西安交通大学	兴庆南路	40	2015年	21793	https://pic1.ajkimg.com/display/ajk/12386d78ac0613bd485e6ec981a22bf5/180x135c.jpg	https://m.anjuke.com/xa/community/308402/	1512户
+铁路局家属院	碑林区	友谊东路	友谊东路	11	2000年	19525	https://pic1.ajkimg.com/display/ajk/e4552c839d233806b23a597092bccce8/180x135c.jpg	https://m.anjuke.com/xa/community/580341/	1336户
+西安铁路信号工厂家属区	碑林区	西安交通大学	金花南路39号	26	2000年	11495	https://pic1.ajkimg.com/display/ajk/0d97627932fed0dcc9447e0aab1c87e0/180x135c.jpg	https://m.anjuke.com/xa/community/305760/	1860户
+自由自宅	碑林区	文艺路	文艺南路69号	86	2009年	14192	https://pic1.ajkimg.com/display/ajk/2b2c838d1964b733114fe3f3de9a5ac3/180x135c.jpg	https://m.anjuke.com/xa/community/274828/	534户
+太和公园人家	碑林区	长乐坊	金花北路	18	2011年	10314	https://pic1.ajkimg.com/display/ajk/aa0056ef3c3046334184435f6e933f8c/180x135c.jpg	https://m.anjuke.com/xa/community/323756/	645户
+大洋时代国际	碑林区	西工大	二环南路西段	24	2007年	12929	https://pic1.ajkimg.com/display/ajk/95eb91968cea5269fdde6a96fa6aef71/180x135c.jpg	https://m.anjuke.com/xa/community/879529/	562户
+长征左邻右舍(西区)	碑林区	李家村	建西街138号	44	2005年	12448	https://pic1.ajkimg.com/display/ajk/e4b0da6beb8fd1cc1c83772dda3f2ca6/180x135c.jpg	https://m.anjuke.com/xa/community/831301/	330户
+文南小区	碑林区	文艺路	文艺南路110号	32	1998年	10168	https://pic1.ajkimg.com/display/ajk/2dd8ff8139b4be799307d13ea8214e6b/180x135c.jpg	https://m.anjuke.com/xa/community/299954/	190户
+尊域	碑林区	边家村	太白北路96号	24	2010年	16681	https://pic1.ajkimg.com/display/ajk/211f0efde5cde03dcb4c48851efcd4bf/180x135c.jpg	https://m.anjuke.com/xa/community/353660/	454户
+建东街海联小区	碑林区	太乙路	建东街49号	24	1998年	10507	https://pic1.ajkimg.com/display/ajk/ab2697443a1fe8636191b7d0308fcb2d/180x135c.jpg	https://m.anjuke.com/xa/community/274824/	462户
+兰蒂斯城(一期)	碑林区	西安交通大学	北沙路9号	36	2013年	16647	https://pic1.ajkimg.com/display/ajk/b1fbcd40b7d600d7a9a2b373b4b06e44/180x135c.jpg	https://m.anjuke.com/xa/community/274909/	2175户
+瑞鑫摩天城	碑林区	边家村	南二环	8	2009年	14785	https://pic1.ajkimg.com/display/ajk/17b28a76bc9f114bdd3bd793c0a7e577/180x135c.jpg	https://m.anjuke.com/xa/community/274732/	1402户
+兰蒂斯城(东区)	碑林区	西安交通大学	北沙路11号	56		15355	https://pic1.ajkimg.com/display/ajk/53ff97712cc6659354fa67eb5c59ea03/180x135c.jpg	https://m.anjuke.com/xa/community/1006881/	1345户
+长乐坊小区	碑林区	长乐坊	伍道十字南街	1	2012年	12898	https://pic1.ajkimg.com/display/ajk/9e0a2f937597526bdaa3643b8f867164/180x135c.jpg	https://m.anjuke.com/xa/community/301018/	3213户
+长安大街3号	碑林区	体育场	南二环东段521号	2	2016年	13237	https://pic1.ajkimg.com/display/ajk/bb93c9f56ae3db3dd48e9c02ede38be0/180x135c.jpg	https://m.anjuke.com/xa/community/322763/	7103户
+西安电力高等专科学校住宅区	碑林区	长乐坊	永乐路18号	13	2002年	10025	https://pic1.ajkimg.com/display/ajk/3df711227c6a56390ad92227ba80a2c0/180x135c.jpg	https://m.anjuke.com/xa/community/830385/	1090户
+宏信国际花园	碑林区	环城南路	环城南路东段334号	8	2012年	18165	https://pic1.ajkimg.com/display/ajk/47b66932302029eb5e19f991f6171965/180x135c.jpg	https://m.anjuke.com/xa/community/302974/	3140户
+际华西苑	碑林区	何家村	兴化东巷	23	2012年	13416	https://pic1.ajkimg.com/display/ajk/7cb0150d538173b79d44d52c7ff94ff0/180x135c.jpg	https://m.anjuke.com/xa/community/1036931/	713户
+中铁一局建国路小区	碑林区	长乐坊	建国路57号	16	2015年	13700	https://pic1.ajkimg.com/display/ajk/5335f80d976397f4a9b45cb51ce4a8b8/180x135c.jpg	https://m.anjuke.com/xa/community/831237/	174户
+龙渠堡小区	碑林区	东关正街	龙渠堡8号	44	2002年	9775	https://pic1.ajkimg.com/display/ajk/7637357bcbaa75e8a14d85ffecc06716/180x135c.jpg	https://m.anjuke.com/xa/community/300459/	264户
+白庙小区	碑林区	太白立交	太白路	9	2015年	11083	https://pic1.ajkimg.com/display/ajk/cb1cca4838653bb27c2548283c9d92ed/180x135c.jpg	https://m.anjuke.com/xa/community/274803/	1848户
+陕歌家属院	碑林区	南稍门	文艺北路	13	2006年	11386	https://pic1.ajkimg.com/display/ajk/b715948254b5bddab110fddde8b81e51/180x135c.jpg	https://m.anjuke.com/xa/community/829950/	713户
+和平花园	碑林区	文艺路	友谊东路	60	1998年	11343	https://pic1.ajkimg.com/display/ajk/73a799c9748b03775fbbfe4de00195af/180x135c.jpg	https://m.anjuke.com/xa/community/297438/	620户
+友谊东路永宁小区	碑林区	南稍门	物资路26号	35	1998年	10177	https://pic1.ajkimg.com/display/ajk/2300164508ecc01ae2e29d7475093d63/180x135c.jpg	https://m.anjuke.com/xa/community/331540/	229户
+学院国际	碑林区	李家村	文艺南路49号	61		14963	https://pic1.ajkimg.com/display/ajk/d9af655a4bfee7c17b54a882f6da0904/180x135c.jpg	https://m.anjuke.com/xa/community/951703/	407户
+紫玉兰庭	碑林区	文艺路	明胜街28号	38	2010年	16153	https://pic1.ajkimg.com/display/ajk/c90b9af6146350a411cc624c16d10f78/180x135c.jpg	https://m.anjuke.com/xa/community/313577/	526户
+枫绿国际住宅小区	碑林区	环城南路	朱雀大街北段132号	24	2012年	12761	https://pic1.ajkimg.com/display/ajk/b4f0c91343eca0ddcde0c3f6a8a36ad8/180x135c.jpg	https://m.anjuke.com/xa/community/879530/	476户
+摩登主场	碑林区	南稍门	新文巷11号	50	2007年	17726	https://pic1.ajkimg.com/display/ajk/4863be1586ad6216179af4ecc30b836c/180x135c.jpg	https://m.anjuke.com/xa/community/275041/	676户
+西安公馆	碑林区	南稍门	朱雀东坊路	0	2015年	13320	https://pic1.ajkimg.com/display/ajk/ed7114f5cf28b685cdd4b9522a3f98f2/180x135c.jpg	https://m.anjuke.com/xa/community/788230/	1488户
+东方星座	碑林区	东关正街	柿园路196号	101	2005年	11728	https://pic1.ajkimg.com/display/ajk/c6f4381b22b5a47b1d55f55e96282d2a/180x135c.jpg	https://m.anjuke.com/xa/community/274863/	900户
+北沙庄园	碑林区	西安交通大学	金花南路1号	36		12426	https://pic1.ajkimg.com/display/ajk/49dfe24acacc97815e3dd56c42481958/180x135c.jpg	https://m.anjuke.com/xa/community/368620/	480户
+艺校家属院	碑林区	李家村	文艺路111号	3	2008年	9631	https://pic1.ajkimg.com/display/ajk/c599bcafb477149b40131efe39563dce/180x135c.jpg	https://m.anjuke.com/xa/community/576551/	60户
+兴庆熙园	碑林区	东关南街	东关南街8号	36	2009年	13940	https://pic1.ajkimg.com/display/ajk/f2a76898b61ef67661e02efa62359370/180x135c.jpg	https://m.anjuke.com/xa/community/274641/	657户
+柿园坊小区	碑林区	东关正街	新郭门路	66	2002年	11815	https://pic1.ajkimg.com/display/ajk/29ed1d1c197fb704b2e13c2a4e2ff7f0/180x135c.jpg	https://m.anjuke.com/xa/community/303597/	435户
+马厂子小区	碑林区	大差市	县门北巷	6	1998年	10687	https://pic1.ajkimg.com/display/ajk/0e99595b2566e13a0b34f497db917729/180x135c.jpg	https://m.anjuke.com/xa/community/310655/	210户
+金叶长乐居	碑林区	长乐坊	长乐坊路299号	31	2007年	13337	https://pic1.ajkimg.com/display/ajk/5fc04781d4aacb92dfd1bb791c000dda/180x135c.jpg	https://m.anjuke.com/xa/community/274804/	773户
+新兴新庆坊	碑林区	东关正街	互助路15号	15	2014年	19989	https://pic1.ajkimg.com/display/ajk/33d0d87067ee9f88c2dbb0d938c6865a/180x135c.jpg	https://m.anjuke.com/xa/community/614817/	907户
+发改委家属院	碑林区	南稍门	文艺南路	25	1990年	10964	https://pic1.ajkimg.com/display/ajk/b75ab068562e7e081da8c67a473d647b/180x135c.jpg	https://m.anjuke.com/xa/community/613673/	64户
+仁厚庄园	碑林区	长乐坊	仁厚庄北路15号	16	2001年	12722	https://pic1.ajkimg.com/display/ajk/82bdb2266c4a37e598e41742038c183b/180x135c.jpg	https://m.anjuke.com/xa/community/829874/	1527户
+朱雀坊	碑林区	红缨路	红缨路,近邮电南巷	4	2014年	13162	https://pic1.ajkimg.com/display/ajk/44c9d730c5dbfd239892867f209a952e/180x135c.jpg	https://m.anjuke.com/xa/community/330430/	1656户
+东关小区	碑林区	长乐坊	更新街100号	6	2002年	10231	https://pic1.ajkimg.com/display/ajk/cccdd66182a67b712e417338028cfdb2/180x135c.jpg	https://m.anjuke.com/xa/community/300196/	472户
+立丰公寓	碑林区	李家村	安东街66号	27	2008年	11229	https://pic1.ajkimg.com/display/ajk/af583410af40198e14657498f01c79a0/180x135c.jpg	https://m.anjuke.com/xa/community/307570/	270户
+骊马豪城	碑林区	南稍门	新文巷29号	22	2005年	13891	https://pic1.ajkimg.com/display/ajk/d4fe39bdd5f613ce755f59d6af090ffa/180x135c.jpg	https://m.anjuke.com/xa/community/413803/	386户
+乐居场小区	碑林区	太乙路	乐居场60号	18	2003年	10188	https://pic1.ajkimg.com/display/ajk/a482ffffb9009168e519da468c8d8a79/180x135c.jpg	https://m.anjuke.com/xa/community/306114/	2717户
+佳和苑	碑林区	南稍门	新文巷31号	6	2001年	11171	https://pic1.ajkimg.com/display/ajk/0d940ee3d8490cd1fd17a3bd4326228b/180x135c.jpg	https://m.anjuke.com/xa/community/274927/	627户
+超英长乐家园	碑林区	长乐坊	景龙池88号	46	2003年	12022	https://pic1.ajkimg.com/display/ajk/0f822df07ac11e623b2a300eccb7520b/180x135c.jpg	https://m.anjuke.com/xa/community/274854/	414户
+郦景豪庭	碑林区	太乙路	环城南路	27	2007年	12754	https://pic1.ajkimg.com/display/ajk/38c926ff0301205c7759b13a8ad0289a/180x135c.jpg	https://m.anjuke.com/xa/community/316697/	429户
+长征左邻右舍(东区)	碑林区	文艺路	建西街136号	21	2005年	12740	https://pic1.ajkimg.com/display/ajk/f6d92fba93a04f3355922528324a9b06/180x135c.jpg	https://m.anjuke.com/xa/community/831130/	266户
+太白星座	碑林区	边家村	太白北路199号	17	2013年	15783	https://pic1.ajkimg.com/display/ajk/8e0b6bc795b01aa9029e9413bb433d5d/180x135c.jpg	https://m.anjuke.com/xa/community/413818/	588户
+东泰城市之光南区	碑林区	边家村	边西街29号	35	2011年	22555	https://pic1.ajkimg.com/display/ajk/143b2967c4d2bd3afcd61b97485de6ac/180x135c.jpg	https://m.anjuke.com/xa/community/831297/	800户
+下马陵社区	碑林区	和平路	东仓门,近西八道巷	9		10827	https://pic1.ajkimg.com/display/ajk/1aeee5816db1a708191db4d7db65142a/180x135c.jpg	https://m.anjuke.com/xa/community/1062208/	112户
+景致雅居	碑林区	南稍门	新文巷98号	29	2004年	14886	https://pic1.ajkimg.com/display/ajk/e39b612238ceb2ef5c421187a8be1562/180x135c.jpg	https://m.anjuke.com/xa/community/274258/	305户
+古迹岭小区	碑林区	东关正街	东关南街	14	1998年	9870	https://pic1.ajkimg.com/display/ajk/9952b5b12091daeefff55dd1080b8ea0/180x135c.jpg	https://m.anjuke.com/xa/community/303566/	1009户
+友谊小区	碑林区	李家村	测绘西路139号	1	1999年	10772	https://pic1.ajkimg.com/display/ajk/c52079339c64f88e1e92bd135875fdbd/180x135c.jpg	https://m.anjuke.com/xa/community/299755/	672户
+公安五处小区	碑林区	友谊西路	友谊西路188号	6	2004年	13201	https://pic1.ajkimg.com/display/ajk/fb385b04133818f43945606330887f26/180x135c.jpg	https://m.anjuke.com/xa/community/306484/	873户
+湖景嘉苑	碑林区	东关南街	柿园路6号	38	2005年	11453	https://pic1.ajkimg.com/display/ajk/45a8fbd25692f774dd105bbef04d1f78/180x135c.jpg	https://m.anjuke.com/xa/community/274669/	176户
+合能朱阙	碑林区	环城南路	朱雀大街72号	5	2016年	10634	https://pic1.ajkimg.com/display/ajk/5974c868d0435ad2eae6ac31dcb308a3/180x135c.jpg	https://m.anjuke.com/xa/community/767175/	785户
+简爱十六楼	碑林区	西安交通大学	交大商场街	8	2007年	11139	https://pic1.ajkimg.com/display/ajk/7a4d9db6b1a8faee188f3fa414e15037/180x135c.jpg	https://m.anjuke.com/xa/community/321387/	84户
+西安晚报家属院	碑林区	南大街	四府街33号	7		12085	https://pic1.ajkimg.com/display/ajk/ef5456039db3524d1f71e04a7eb69406/180x135c.jpg	https://m.anjuke.com/xa/community/609703/	531户
+柠檬公寓	碑林区	何家村	含光路	22	2004年	12665	https://pic1.ajkimg.com/display/ajk/3d1c302a5b8577477b96b05c3b7f81ac/180x135c.jpg	https://m.anjuke.com/xa/community/275157/	336户
+阳光里	碑林区	和平路	玄风桥南巷	2	2009年	15358	https://pic1.ajkimg.com/display/ajk/8ee74005c3301b884c12004570b627a5/180x135c.jpg	https://m.anjuke.com/xa/community/304296/	336户
+玫瑰坊	碑林区	长乐坊	长乐坊18号	18	2006年	11286	https://pic1.ajkimg.com/display/ajk/f508eb1701aecbb8228cea07d6013085/180x135c.jpg	https://m.anjuke.com/xa/community/274574/	240户
+中原新村小区	碑林区	环城南路	含光路	9	2005年	11775	https://pic1.ajkimg.com/display/ajk/e4c00d24818170036d2ff46c9228fa54/180x135c.jpg	https://m.anjuke.com/xa/community/564741/	504户
+文锦苑小区	碑林区	文艺路	文艺路3号	22	2001年	10062	https://pic1.ajkimg.com/display/ajk/26f9163e005b3192c1ef3e49687938e5/180x135c.jpg	https://m.anjuke.com/xa/community/435107/	198户
+金地园	碑林区	文艺路	文艺南路136号	33	2004年	14849	https://pic1.ajkimg.com/display/ajk/82643edca1df587601939659946e39a0/180x135c.jpg	https://m.anjuke.com/xa/community/274462/	252户
+德福巷小区西区	碑林区	南大街	南广济街43号	21	1999年	11306	https://pic1.ajkimg.com/display/ajk/843935390fa62e67c68be5bd31d6d55f/180x135c.jpg	https://m.anjuke.com/xa/community/830111/	294户
+友谊公司家属院	碑林区	文艺路	文艺南路	11	2000年	9532	https://pic1.ajkimg.com/display/ajk/b0e509d1bbb2785e7a76a38394641a40/180x135c.jpg	https://m.anjuke.com/xa/community/470135/	201户
+西彩新苑	碑林区	西安交通大学	友谊东路20号	9	1998年	12719	https://pic1.ajkimg.com/display/ajk/080c5a24367699ca0a072edbe00b0b1a/180x135c.jpg	https://m.anjuke.com/xa/community/407095/	756户
+陕钢家属院	碑林区	环城南路	咸宁中路106号	1		11359	https://pic1.ajkimg.com/display/ajk/a6b3450b9850312bf2317b3018c64e7f/180x135c.jpg	https://m.anjuke.com/xa/community/311618/	1376户
+铁一局后村小区	碑林区	太乙路	南二环东段319号	18		13757	https://pic1.ajkimg.com/display/ajk/f55e53b5df0b86b9c09b9001ccb7501a/180x135c.jpg	https://m.anjuke.com/xa/community/1062203/	888户
+市委家属院	碑林区	南大街	粉巷	1	2008年	10624	https://pic1.ajkimg.com/display/ajk/4779ac0cb46bb6e22ea0722bf095ed0b/180x135c.jpg	https://m.anjuke.com/xa/community/310566/	390户
+御城	碑林区	环城南路	环城南路西段110号	10	2002年	15898	https://pic1.ajkimg.com/display/ajk/3697649cd57960f165ef2a4993829ed5/180x135c.jpg	https://m.anjuke.com/xa/community/274632/	724户
+幸福逸家	碑林区	东关正街	东关正街9号	14	2012年	13165	https://pic1.ajkimg.com/display/ajk/d6d66c2cfc075b18ad03e0e3ebc63884/180x135c.jpg	https://m.anjuke.com/xa/community/322152/	489户
+县仓巷小区	碑林区	南大街	县仓巷	25		10598	https://pic1.ajkimg.com/display/ajk/8c6db0a4985c1ff4004a07862a90f5db/180x135c.jpg	https://m.anjuke.com/xa/community/395601/	396户
+学林雅苑(碑林)	碑林区	边家村	边西街	11	2005年	16280	https://pic1.ajkimg.com/display/ajk/335ad5f8c074a20a4ece8b24e03f04c7/180x135c.jpg	https://m.anjuke.com/xa/community/274961/	308户
+都市凰庭	碑林区	红缨路	红缨路88号	29	2010年	13899	https://pic1.ajkimg.com/display/ajk/6a742bbe82fc0f869e9ea6b0a7d2198d/180x135c.jpg	https://m.anjuke.com/xa/community/300378/	--
+白庙公寓	碑林区	西工大	白庙路甲字6号	4	2011年	13284	https://pic1.ajkimg.com/display/ajk/2ba7314fbfcf2a46462733f761cac035/180x135c.jpg	https://m.anjuke.com/xa/community/829886/	468户
+西后地小区	碑林区	南稍门	振兴路	0	1987年	11388	https://pic1.ajkimg.com/display/ajk/48b979ee09572ce86bf809730554fa8a/180x135c.jpg	https://m.anjuke.com/xa/community/830587/	1076户
+泰华金汇时代	碑林区	西工大	太白北路	4	2016年	12084	https://pic1.ajkimg.com/display/ajk/19440579e62ed50f4f9d6e6f378fb594/180x135c.jpg	https://m.anjuke.com/xa/community/786420/	823户
+交大附中家属院	碑林区	西安交通大学	兴庆路	1	2003年	10851	https://pic1.ajkimg.com/display/ajk/d34100cdd50870db4cbc22f259e08496/180x135c.jpg	https://m.anjuke.com/xa/community/313417/	1192户
+嘉怡豪庭	碑林区	环城南路	长安北路41号	17	2012年	15384	https://pic1.ajkimg.com/display/ajk/374f096f5b8a8544e5a334804f5c7025/180x135c.jpg	https://m.anjuke.com/xa/community/308146/	384户
+印花布园小区	碑林区	环城南路	印花布园37号	4	2009年	11568	https://pic1.ajkimg.com/display/ajk/0b30c37d36205a1deabffa8329292ef5/180x135c.jpg	https://m.anjuke.com/xa/community/317400/	421户
+兴庆九号	碑林区	环城南路	兴庆路	30	2005年	10909	https://pic1.ajkimg.com/display/ajk/c7c86197ff78b9282eeaeaed8f6d33fe/180x135c.jpg	https://m.anjuke.com/xa/community/830793/	300户
+兴庆雅居	碑林区	长乐坊	兴庆路北段67号	13	2013年	12380	https://pic1.ajkimg.com/display/ajk/3c417193fdc067db571338f059f3d2f3/180x135c.jpg	https://m.anjuke.com/xa/community/398724/	448户
+丽苑	碑林区	太乙路	太乙路5号	14	2004年	11670	https://pic1.ajkimg.com/display/ajk/8950625d2de78579b7fd6b1cd9588481/180x135c.jpg	https://m.anjuke.com/xa/community/274812/	400户
+新兴小区(大差市)	碑林区	大差市	建国路,近无名路	8	1997年	12975	https://pic1.ajkimg.com/display/ajk/c9c5f0cc8c5fc3aba51063255a07a24f/180x135c.jpg	https://m.anjuke.com/xa/community/292619/	408户
+建苑家园	碑林区	边家村	太白北路	25	2007年	14001	https://pic1.ajkimg.com/display/ajk/212544a8700d5692d48ef0eb0e85ffdc/180x135c.jpg	https://m.anjuke.com/xa/community/275147/	416户
+陕西省电力公司兴庆路社区	碑林区	长乐坊	伞塔路68号	31	2005年	9969	https://pic1.ajkimg.com/display/ajk/822cb71c50bedf282c90b7872a69b56a/180x135c.jpg	https://m.anjuke.com/xa/community/829999/	192户
+珠江时代广场	碑林区	南门	环城南路	1		17972	https://pic1.ajkimg.com/display/ajk/472599eb8386402159a50aeaae11bae3/180x135c.jpg	https://m.anjuke.com/xa/community/831250/	288户
+唐宁国际	碑林区	南大街	盐店街128号	3	2015年	14198	https://pic1.ajkimg.com/display/ajk/41e38dd2326c40d6d311402023105fc2/180x135c.jpg	https://m.anjuke.com/xa/community/951835/	1364户
+希望小区	碑林区	大差市	西县坡1号	11	1998年	11111	https://pic1.ajkimg.com/display/ajk/b1d813fb6f8db7e03a3fcdae60507907/180x135c.jpg	https://m.anjuke.com/xa/community/504141/	294户
+高尔夫花园	碑林区	南门	长安北路56号	8	1998年	10978	https://pic1.ajkimg.com/display/ajk/4a0d26a16d3eb77b627da81a7d71a59f/180x135c.jpg	https://m.anjuke.com/xa/community/274586/	335户
+世贸大厦	碑林区	东关正街	东关正街66号	2	2000年	12242	https://pic1.ajkimg.com/display/ajk/c3a18d597d10854976e279bd14e32bd3/180x135c.jpg	https://m.anjuke.com/xa/community/911797/	1494户
+豪盛大厦	碑林区	小雁塔	朱雀大街78号	22	2002年	10962	https://pic1.ajkimg.com/display/ajk/4074f6ca6197e23a36291895bcd096fb/180x135c.jpg	https://m.anjuke.com/xa/community/299749/	406户
+海景国际公寓	碑林区	环城南路	兴庆北路219号	19	2011年	9100	https://pic1.ajkimg.com/display/ajk/4e2e1479c6a8d58c83615949b67dc538/180x135c.jpg	https://m.anjuke.com/xa/community/274488/	352户
+高速集团家属院	碑林区	文艺路	文艺路,近友谊东路	13	2006年	13320	https://pic1.ajkimg.com/display/ajk/5b04117383ba8f31c0f8b6e441a98ba4/180x135c.jpg	https://m.anjuke.com/xa/community/335348/	238户
+西宝花园	碑林区	南门	振兴路84号	8	2006年	13242	https://pic1.ajkimg.com/display/ajk/fd6458acfd801c3ad6450e266de4b23f/180x135c.jpg	https://m.anjuke.com/xa/community/291439/	290户
+太白馨苑	碑林区	边家村	太白北路31号	3	2009年	11692	https://pic1.ajkimg.com/display/ajk/df05690a22925135e14c197b35b4a076/180x135c.jpg	https://m.anjuke.com/xa/community/658352/	1954户
+建行家属院(大学东路)	碑林区	红缨路	大学东路138号	20	2015年	10851	https://pic1.ajkimg.com/display/ajk/d68f2127bf99d81e1089288ad2214463/180x135c.jpg	https://m.anjuke.com/xa/community/592448/	341户
+天宝国际	碑林区	西安交通大学	太乙路	12		13068	https://pic1.ajkimg.com/display/ajk/581c4b33f18300a2ee5cbeaee7a68b27/180x135c.jpg	https://m.anjuke.com/xa/community/469940/	842户
+红缨花园	碑林区	红缨路	红缨路49号	9	2010年	14130	https://pic1.ajkimg.com/display/ajk/af19c0e911b19a5834d7a9143015f18c/180x135c.jpg	https://m.anjuke.com/xa/community/314982/	906户
+中国新时代小区	碑林区	李家村	友谊东路	22		14347	https://pic1.ajkimg.com/display/ajk/189868786a0a9c54573949f0107f490d/180x135c.jpg	https://m.anjuke.com/xa/community/307212/	1026户
+和平小区	碑林区	环城南路	文艺南路246号	5	1992年	9900	https://pic1.ajkimg.com/display/ajk/ee9cbc502cede0559cb296910d44cd8d/180x135c.jpg	https://m.anjuke.com/xa/community/314764/	424户
+怡兰新主角	碑林区	环城南路	含光路	8	2013年	12909	https://pic1.ajkimg.com/display/ajk/9a4f227230721d887b655561c7d35a8d/180x135c.jpg	https://m.anjuke.com/xa/community/730479/	1208户
+金玉人家	碑林区	长乐坊	金花北路	11	2005年	14015	https://pic1.ajkimg.com/display/ajk/14ae6778374cd4fc98b25f459ea4bd2f/180x135c.jpg	https://m.anjuke.com/xa/community/314259/	482户
+民航小区(边家村)	碑林区	西工大	白庙路2号	7	1998年	13409	https://pic1.ajkimg.com/display/ajk/e24eb0435ccc58a2fcb8ff33d1e6768c/180x135c.jpg	https://m.anjuke.com/xa/community/315935/	526户
+东屿枫舍	碑林区	长乐坊	环东路105号	8	2007年	13514	https://pic1.ajkimg.com/display/ajk/81640ecb7f63e910b5aea4e16f0dcd7d/180x135c.jpg	https://m.anjuke.com/xa/community/274790/	490户
+信步闲庭	碑林区	西安交通大学	公园南路36号	19	2005年	13467	https://pic1.ajkimg.com/display/ajk/cca9ddba648d86534c354c33b6ac30b5/180x135c.jpg	https://m.anjuke.com/xa/community/274649/	315户
+秦和花苑	碑林区	东关正街	互助路26A号	30	2005年	11482	https://pic1.ajkimg.com/display/ajk/a1cc72a153de9cb4a932a7b02e3117aa/180x135c.jpg	https://m.anjuke.com/xa/community/274928/	248户
+城市浩星	碑林区	和平路	环城南路东段58号	2	2009年	7999	https://pic1.ajkimg.com/display/ajk/f444a836e0903a1bae74a8fb038c664c/180x135c.jpg	https://m.anjuke.com/xa/community/274815/	275户
+和平路东八至十道巷小区	碑林区	南大街	建国路88号	8	1992年	13018	https://pic1.ajkimg.com/display/ajk/67e730d799e008419b97fa3b47debf0c/180x135c.jpg	https://m.anjuke.com/xa/community/303420/	96户
+产寿险保险公司家属院	碑林区	环城南路	环城南路中段64号	26	2011年	10184	https://pic1.ajkimg.com/display/ajk/a3164747df20093aed9c35c552df5ca6/180x135c.jpg	https://m.anjuke.com/xa/community/319779/	168户
+新兴翰园	碑林区	西安交通大学	友谊东路6号	12	2003年	12277	https://pic1.ajkimg.com/display/ajk/c96cd31cd58d9d07484ec1384bcdda2a/180x135c.jpg	https://m.anjuke.com/xa/community/275038/	336户
+天伦盛世	碑林区	文艺路	友谊东路81号	26	2008年	15974	https://pic1.ajkimg.com/display/ajk/6453f774bbca802982993e75e1bd6ba9/180x135c.jpg	https://m.anjuke.com/xa/community/274682/	654户
+民生新世界	碑林区	长乐坊	兴庆路139号	11	2003年	10485	https://pic1.ajkimg.com/display/ajk/0d783920a752a9edd4d66d91b60e2b42/180x135c.jpg	https://m.anjuke.com/xa/community/274652/	304户
+世家星苑	碑林区	文艺路	南关正街101号	3	2000年	11071	https://pic1.ajkimg.com/display/ajk/96bb70697c2086786857e157c203cf7e/180x135c.jpg	https://m.anjuke.com/xa/community/299088/	264户
+德福巷小区东区	碑林区	东大街	德福巷66号	3	1999年	10934	https://pic1.ajkimg.com/display/ajk/6a318c9c23b25f12c98343c58cd84030/180x135c.jpg	https://m.anjuke.com/xa/community/274612/	360户
+自在广场	碑林区	西工大	白沙路1号	3	2005年	14474	https://pic1.ajkimg.com/display/ajk/a55282f0d0da343bd0d70a672451bf4f/180x135c.jpg	https://m.anjuke.com/xa/community/274783/	388户
+南苑中央广场	碑林区	友谊西路	南院门20号	3	2006年	19090	https://pic1.ajkimg.com/display/ajk/76c82bbf34698c9cf2df5714b30a3934/180x135c.jpg	https://m.anjuke.com/xa/community/831170/	182户
+嘉禾公馆	碑林区	西工大	劳动南路147号	14	2012年	15510	https://pic1.ajkimg.com/display/ajk/144d085caca77ef88e696d7d08cba0bb/180x135c.jpg	https://m.anjuke.com/xa/community/952006/	270户
+省药材公司家属院	碑林区	环城南路	索罗巷11号	8	1998年	10867	https://pic1.ajkimg.com/display/ajk/aa7f95d8cbb85f0198434f1e2f4ba68a/180x135c.jpg	https://m.anjuke.com/xa/community/303700/	216户
+新兴名园	碑林区	西安交通大学	友谊东路8号	13	2004年	11191	https://pic1.ajkimg.com/display/ajk/d4e3d24eed4b0500940714b2c742c254/180x135c.jpg	https://m.anjuke.com/xa/community/274525/	600户
+摩登部落	碑林区	大差市	金花北路8号	3	2003年	10380	https://pic1.ajkimg.com/display/ajk/afff34406427991e89eac3b8841b90bf/180x135c.jpg	https://m.anjuke.com/xa/community/274957/	234户
+景润花园	碑林区	李家村	安西街甲字1号	14	2004年	10895	https://pic1.ajkimg.com/display/ajk/309d4456e8f00b84f0d57fb6ce67f26d/180x135c.jpg	https://m.anjuke.com/xa/community/274559/	214户
+恒佳格调	碑林区	环城南路	永宁路10号	16	2006年	14912	https://pic1.ajkimg.com/display/ajk/6d505895e101629c7cb66c519424bc5c/180x135c.jpg	https://m.anjuke.com/xa/community/274756/	248户
+恒兴文艺广场	碑林区	南稍门	文艺南路2号	17	2015年	12849	https://pic1.ajkimg.com/display/ajk/5d9178053fc80f562b9b2d5cc49ec7d9/180x135c.jpg	https://m.anjuke.com/xa/community/951918/	--
+招商局小区	碑林区	东关正街	东关正街70号	22	2000年	9747	https://pic1.ajkimg.com/display/ajk/64da0adce0960ee985baa330533e33c3/180x135c.jpg	https://m.anjuke.com/xa/community/879492/	280户
+陕煤集团小区	碑林区	李家村	太乙路	9		12230	https://pic1.ajkimg.com/display/ajk/3d116f9c8415a3cc810537778715212c/180x135c.jpg	https://m.anjuke.com/xa/community/421416/	276户
+旺园大厦	碑林区	环城南路	环城南路西段33号	8	2007年	11724	https://pic1.ajkimg.com/display/ajk/f9f82ff89af5767ff40a93bd64f609c0/180x135c.jpg	https://m.anjuke.com/xa/community/299597/	362户
+中铁一局李家村西院家属院	碑林区	李家村	友谊西路辅路	8	2002年	13344	https://pic1.ajkimg.com/display/ajk/5d6dcdc6827d1385c1b3c8221d820641/180x135c.jpg	https://m.anjuke.com/xa/community/831238/	549户
+风雷小区	碑林区	东大街	院门巷21号	2	2011年	13227	https://pic1.ajkimg.com/display/ajk/429a86afd23acdb895c938a4ad82373c/180x135c.jpg	https://m.anjuke.com/xa/community/315961/	249户
+孟家巷小区	碑林区	长乐坊	孟家巷,近环城东路段	5	2002年	8106	https://pic1.ajkimg.com/display/ajk/a646cb1cd2a42bd39d27eba09ea79bf1/180x135c.jpg	https://m.anjuke.com/xa/community/831097/	972户
+贝特智能佳园	碑林区	西安交通大学	友谊东路1号	14	2005年	11959	https://pic1.ajkimg.com/display/ajk/0cfb3fe0b01643c4b6ae9c08ef469270/180x135c.jpg	https://m.anjuke.com/xa/community/274517/	132户
+伟世佳苑	碑林区	长乐坊	伍道什字东街	14	2000年	10456	https://pic1.ajkimg.com/display/ajk/12a38b76249a3d9c7dfbd1e37feb06c2/180x135c.jpg	https://m.anjuke.com/xa/community/410940/	148户
+伞塔路消防队家属院	碑林区	长乐坊	伞塔路	16	2007年	9908	https://pic1.ajkimg.com/display/ajk/1844cda5eae30963c1faab914552d105/180x135c.jpg	https://m.anjuke.com/xa/community/315156/	168户
+西藏办小区	碑林区	李家村	建设西路169号	0	2010年	10643	https://pic1.ajkimg.com/display/ajk/ff99b2652f2b12d2657ffeb6a0c070a9/180x135c.jpg	https://m.anjuke.com/xa/community/574963/	2404户
+尊域嘉	碑林区	西工大	太白北路	2	2010年	16235	https://pic1.ajkimg.com/display/ajk/b58a07765f20f39a0aa4feb2a426dc06/180x135c.jpg	https://m.anjuke.com/xa/community/831292/	436户
+建行家属院(伞塔路)	碑林区	长乐坊	兴庆北路93号	13	2015年	9493	https://pic1.ajkimg.com/display/ajk/9900a7e7484bd8aa11d4192daf07e7c4/180x135c.jpg	https://m.anjuke.com/xa/community/274551/	192户
+盛城东星	碑林区	长乐坊	新庆巷,近无名路	18	2014年	14444	https://pic1.ajkimg.com/display/ajk/0a5ab7af47ce3553c0ef8e060f00cd20/180x135c.jpg	https://m.anjuke.com/xa/community/477184/	512户
+华龙佳园	碑林区	长乐坊	长乐坊路22号	7	2005年	11553	https://pic1.ajkimg.com/display/ajk/1739d00c2d466c3233ca94a8f17a1d11/180x135c.jpg	https://m.anjuke.com/xa/community/274798/	403户
+都市朝阳	碑林区	和平路	长胜街56号	9	2004年	13647	https://pic1.ajkimg.com/display/ajk/602caac33773a8c7d4b6ba7b1253cf0f/180x135c.jpg	https://m.anjuke.com/xa/community/312486/	186户
+统计局家属院	碑林区	西安交通大学	安东街51号	6	2015年	10350	https://pic1.ajkimg.com/display/ajk/88e307d4dfe8570131e899ef72170c57/180x135c.jpg	https://m.anjuke.com/xa/community/349361/	84户
+帝标大厦	碑林区	长乐坊	柿园路135号	16	2008年	9408	https://pic1.ajkimg.com/display/ajk/2c8736e3967c56751666cf4249056aeb/180x135c.jpg	https://m.anjuke.com/xa/community/995314/	--
+海联物业友谊东路小区	碑林区	西安交通大学	友谊东路副23号	7		10196	https://pic1.ajkimg.com/display/ajk/02a4a73f2ef649772e492223e082ae61/180x135c.jpg	https://m.anjuke.com/xa/community/1029856/	84户
+民生新村	碑林区	环城南路	兴庆路73号	29	2009年	10698	https://pic1.ajkimg.com/display/ajk/297d992f8b21cdbc511bba62bd11aa6f/180x135c.jpg	https://m.anjuke.com/xa/community/357202/	136户
+中国水利水电西北勘测设计研究院福利区	碑林区	南稍门	体育东路9号	1	2015年	10883	https://pic1.ajkimg.com/display/ajk/408eeb69d1adf1382cae9d735761f3ec/180x135c.jpg	https://m.anjuke.com/xa/community/831173/	704户
+交大三村	碑林区	西安交通大学	北沙坡路	0	2005年	10492	https://pic1.ajkimg.com/display/ajk/d33357c36c1e3d169a7ce3ed9722336f/180x135c.jpg	https://m.anjuke.com/xa/community/311143/	1716户
+优座华城	碑林区	边家村	劳卫路1号	1	2010年	14019	https://pic1.ajkimg.com/display/ajk/bde51032e85ac16558fe52160cdbfe88/180x135c.jpg	https://m.anjuke.com/xa/community/502819/	512户
+新艺城大厦	碑林区	文艺路	文艺北路59号	25	2003年	10501	https://pic1.ajkimg.com/display/ajk/40f8b3b7142983461d8828fa7ac82975/180x135c.jpg	https://m.anjuke.com/xa/community/274785/	826户
+更新小区(东区)	碑林区	长乐坊	更新街	8	2015年	10964	https://pic1.ajkimg.com/display/ajk/e9a19f21d6137b5f142cdceeacad1dc0/180x135c.jpg	https://m.anjuke.com/xa/community/317698/	420户
+陕建一公司家属院	碑林区	边家村	太白路17号	2	1998年	10165	https://pic1.ajkimg.com/display/ajk/aec0d891c218528548936cde8997597e/180x135c.jpg	https://m.anjuke.com/xa/community/274320/	1066户
+新旅城上东	碑林区	李家村	雁塔路中段43号	2	2013年	11581	https://pic1.ajkimg.com/display/ajk/7db79fd2a52035b7712850e0d9499e7b/180x135c.jpg	https://m.anjuke.com/xa/community/556366/	1320户
+西安热工研究院家属院	碑林区	长乐坊	兴庆路136号	4		8710	https://pic1.ajkimg.com/display/ajk/5b346870b3b5aeb73b1aef4424923a5d/180x135c.jpg	https://m.anjuke.com/xa/community/1062964/	626户
+立丰国际公寓	碑林区	西安交通大学	金花南路	3	2005年	11351	https://pic1.ajkimg.com/display/ajk/3d0327891678d5e04821843721895824/180x135c.jpg	https://m.anjuke.com/xa/community/274268/	546户
+紫雁朗庭	碑林区	南稍门	振兴路4号	4	2006年	13792	https://pic1.ajkimg.com/display/ajk/42abc7edfa278b3a2f4b687fadb8e0e4/180x135c.jpg	https://m.anjuke.com/xa/community/274332/	280户
+东新城市家园	碑林区	环城南路	火炬路	14	2007年	15757	https://pic1.ajkimg.com/display/ajk/49d3317b9e07f43c4a6dd41bd14a3f4f/180x135c.jpg	https://m.anjuke.com/xa/community/275095/	478户
+卧龙巷机关小区	碑林区	东关南街	卧龙巷	6	1998年	11224	https://pic1.ajkimg.com/display/ajk/93dc5f4303adf1b8136c75eb18969706/180x135c.jpg	https://m.anjuke.com/xa/community/323175/	245户
+哈佛印象	碑林区	李家村	太乙路	0	2016年	14657	https://pic1.ajkimg.com/display/ajk/0f2abcc79efa1392906e9dea367090a3/180x135c.jpg	https://m.anjuke.com/xa/community/398568/	732户
+荣民国际公寓	碑林区	南大街	南广济街94号	6	2008年	11997	https://pic1.ajkimg.com/display/ajk/d73c1feabdc8bc490965a99d7ad41cbb/180x135c.jpg	https://m.anjuke.com/xa/community/274890/	392户
+陕建三建集团安东街小区	碑林区	李家村	安东街46号	2	2005年	9666	https://pic1.ajkimg.com/display/ajk/ab1da2c23931c1606e24006ad2bee2c8/180x135c.jpg	https://m.anjuke.com/xa/community/951858/	938户
+怡兰星空	碑林区	何家村	含光北路3号	0	2006年	12394	https://pic1.ajkimg.com/display/ajk/9309ab81586e617561f4514e7d6fb496/180x135c.jpg	https://m.anjuke.com/xa/community/274499/	748户
+海联南区	碑林区	西安交通大学	建东街49号	9	1998年	10092	https://pic1.ajkimg.com/display/ajk/624aa919843df57b8aec6edecc8e571f/180x135c.jpg	https://m.anjuke.com/xa/community/951837/	252户
+烟草局家属院	碑林区	东关正街	炮房街26号	11		11426	https://pic1.ajkimg.com/display/ajk/2e314e681d73d948da4a7aedcc1b7c71/180x135c.jpg	https://m.anjuke.com/xa/community/606683/	265户
+大新巷小区	碑林区	东关正街	东关南街6号	6	1999年	10189	https://pic1.ajkimg.com/display/ajk/7d882cdfcd15a59cb3060c7ec8f3dfc5/180x135c.jpg	https://m.anjuke.com/xa/community/300589/	1316户
+兴庆小区永嘉坊	碑林区	东关正街	兴庆路,近互助路	7		9726	https://pic1.ajkimg.com/display/ajk/ee41fee4a29e3edee668d5230d91707a/180x135c.jpg	https://m.anjuke.com/xa/community/830796/	336户
+云峰大厦(碑林)	碑林区	西安交通大学	南二环东段31号	10	2006年	10885	https://pic1.ajkimg.com/display/ajk/6c2051aa6ffd5e6848efa7a487f9acbb/180x135c.jpg	https://m.anjuke.com/xa/community/912720/	868户
+克拉上城	碑林区	环城南路	建工路	19	2006年	12590	https://pic1.ajkimg.com/display/ajk/00c393c2453287e7d70ed8af2e2b0fd7/180x135c.jpg	https://m.anjuke.com/xa/community/275061/	380户
+军工南苑	碑林区	何家村	含光北路9号	2	2006年	13076	https://pic1.ajkimg.com/display/ajk/46a8191110a87034535c543ae735662b/180x135c.jpg	https://m.anjuke.com/xa/community/316260/	432户
+陕建安装集团朱雀佳苑小区	碑林区	红缨路	红缨路20号	2	2015年	13593	https://pic1.ajkimg.com/display/ajk/2492b52f7c5ba19cb41469d161fb7083/180x135c.jpg	https://m.anjuke.com/xa/community/316215/	300户
+城市郦景	碑林区	环城南路	环城南路西段48号	2	2004年	13073	https://pic1.ajkimg.com/display/ajk/03b55af3a1f536acf974d73f8f679f94/180x135c.jpg	https://m.anjuke.com/xa/community/274607/	160户
+白金广场小区	碑林区	文艺路	文艺南路84号	24	2006年	13209	https://pic1.ajkimg.com/display/ajk/96ee9909e15ec5b6cd25887f35014604/180x135c.jpg	https://m.anjuke.com/xa/community/274448/	168户
+朱雀东坊小区	碑林区	南门	振兴路29号	4	2010年	10962	https://pic1.ajkimg.com/display/ajk/efa775f5adeac18509da8f21615aacb9/180x135c.jpg	https://m.anjuke.com/xa/community/420677/	1456户
+广济小区	碑林区	南大街	南广济街93号	12		11567	https://pic1.ajkimg.com/display/ajk/06061f215860680b5315c96689149b33/180x135c.jpg	https://m.anjuke.com/xa/community/314078/	1286户
+中联颐华苑	碑林区	文艺路	文艺北路	7	2004年	11970	https://pic1.ajkimg.com/display/ajk/cb943fcf83ead5e6c7fff70bccda9b1f/180x135c.jpg	https://m.anjuke.com/xa/community/297335/	367户
+陕西省艺术学校家属东区	碑林区	文艺路	建设西路186号	2	2015年	10016	https://pic1.ajkimg.com/display/ajk/b38eff989a33b60719d6c2286864e515/180x135c.jpg	https://m.anjuke.com/xa/community/830029/	60户
+东关曹家巷小区	碑林区	西安交通大学	咸宁西路25号	12	1999年	9779	https://pic1.ajkimg.com/display/ajk/50f6982dedb481d241b1f05e3e435e6d/180x135c.jpg	https://m.anjuke.com/xa/community/308893/	210户
+东县门47号院	碑林区	南大街	东县门47号	14		10856	https://pic1.ajkimg.com/display/ajk/16fdc593c03f65e2d6817a78c164bcaa/180x135c.jpg	https://m.anjuke.com/xa/community/1062259/	42户
+工商银行家属院(互助路)	碑林区	东关正街	互助路8号	23	2015年	9971	https://pic1.ajkimg.com/display/ajk/151bb72bd5eccafe87bd53e8d993ef03/180x135c.jpg	https://m.anjuke.com/xa/community/375745/	36户
+中煤航测遥感局家属区	碑林区	文艺路	长胜街78号	4		10454	https://pic1.ajkimg.com/display/ajk/631fd8eb09591e2687a98899adec2bf7/180x135c.jpg	https://m.anjuke.com/xa/community/1062223/	332户
+千叶华园	碑林区	西工大	友谊西路446号	2	2005年	19393	https://pic1.ajkimg.com/display/ajk/85cdb5fceff2a1141fc11c103b36d64b/180x135c.jpg	https://m.anjuke.com/xa/community/274840/	193户
+电力公司家属院	碑林区	东关正街	环城东路20号	15	2008年	14240	https://pic1.ajkimg.com/display/ajk/dd4187bdbdbb2915419515fded367f74/180x135c.jpg	https://m.anjuke.com/xa/community/879508/	1398户
+3538厂家属院	碑林区	环城南路	长安北路	0	2009年	9424	https://pic1.ajkimg.com/display/ajk/968c8254a7910e77ed19724520a7589a/180x135c.jpg	https://m.anjuke.com/xa/community/298020/	434户
+信苑	碑林区	边家村	邮电南巷	1	2009年	13697	https://pic1.ajkimg.com/display/ajk/8e1be7e08f32cc3aa8b14860c6652057/180x135c.jpg	https://m.anjuke.com/xa/community/477127/	644户
+泛渼大厦	碑林区	南稍门	南关正街1号	0	2004年	9469	https://pic1.ajkimg.com/display/ajk/fcf9c72511ed6e65f1049948e0b07053/180x135c.jpg	https://m.anjuke.com/xa/community/914092/	456户
+兴庆花园	碑林区	东关正街	兴庆路98号	4	2009年	10580	https://pic1.ajkimg.com/display/ajk/d476088561e2661e3b9aba058295c9ec/180x135c.jpg	https://m.anjuke.com/xa/community/274705/	232户
+兴庆小区	碑林区	环城南路	兴庆西路,近互助路	1	1998年	9214	https://pic1.ajkimg.com/display/ajk/c136f627957591044ad5b8cde2f010b2/180x135c.jpg	https://m.anjuke.com/xa/community/300061/	1154户
+东仓门小区	碑林区	大差市	东仓巷,近无名路	6	1999年	10224	https://pic1.ajkimg.com/display/ajk/390c89201d24d490b5fe0517bca7394f/180x135c.jpg	https://m.anjuke.com/xa/community/308919/	295户
+天伦御城龙脉刘家庄小区	碑林区	西安交通大学	二环南路东段180号	3		14022	https://pic1.ajkimg.com/display/ajk/92d2a2eba08f678544b8dc90f5db0ced/180x135c.jpg	https://m.anjuke.com/xa/community/830983/	1536户
+中国通信建设第二工程局中院住宅区	碑林区	红缨路	邮电北巷24号	13	2015年	12215	https://pic1.ajkimg.com/display/ajk/8b6fb4984bc943d4e0bcd54545d7becc/180x135c.jpg	https://m.anjuke.com/xa/community/831182/	435户
+省体育局家属院	碑林区	文艺路	建西街21号	0	2008年	11676	https://pic1.ajkimg.com/display/ajk/42f700d1785d1742fcb40f988a8f2859/180x135c.jpg	https://m.anjuke.com/xa/community/313594/	498户
+城市汇	碑林区	红缨路	大学东路72号	1	2011年	11814	https://pic1.ajkimg.com/display/ajk/1f53d89696482fb0f8ee832ac574995d/180x135c.jpg	https://m.anjuke.com/xa/community/274650/	339户
+西安话剧院	碑林区	李家村	雁塔北路55号	3		8750	https://pic1.ajkimg.com/display/ajk/a624979b5ce2844bc8f4a01ba5bc8e4b/180x135c.jpg	https://m.anjuke.com/xa/community/1045495/	151户
+西安工程大学西家属区	碑林区	环城南路	仁厚庄北路,近光庆路	0	2015年	9957	https://pic1.ajkimg.com/display/ajk/a4b95d1fa82cd9bf6c53528ceaad1972/180x135c.jpg	https://m.anjuke.com/xa/community/830394/	1028户
+尚书房	碑林区	太乙路	友谊东路41号	0	2013年	17796	https://pic1.ajkimg.com/display/ajk/c90d0cb3e3fee0251f6cdeac9bb792d2/180x135c.jpg	https://m.anjuke.com/xa/community/830052/	364户
+西荷花园	碑林区	太白立交	西何家村15号	1	2009年	9523	https://pic1.ajkimg.com/display/ajk/6c74cb7b47362e74640e66b4aa2b40da/180x135c.jpg	https://m.anjuke.com/xa/community/274644/	1216户
+柿园新村	碑林区	长乐坊	柿园路9号	18	2001年	8635	https://pic1.ajkimg.com/display/ajk/9aada8ced7aabdab7298107d4cb4601f/180x135c.jpg	https://m.anjuke.com/xa/community/274894/	148户
+芦荡巷小区	碑林区	广济街	南广济街	6	2009年	11254	https://pic1.ajkimg.com/display/ajk/788c9189e77860b1f0be0450826c9d89/180x135c.jpg	https://m.anjuke.com/xa/community/324077/	413户
+功德小区	碑林区	太乙路	太乙路182号	11	2002年	10211	https://pic1.ajkimg.com/display/ajk/fa9fe79559bb77b6f70fd2488496c495/180x135c.jpg	https://m.anjuke.com/xa/community/274580/	228户
+翠庭大厦	碑林区	西安交通大学	兴庆路中段1号	0		9257	https://pic1.ajkimg.com/display/ajk/85819e61424081222272934d382e46a5/180x135c.jpg	https://m.anjuke.com/xa/community/1044687/	378户
+东新村小区	碑林区	文艺路	文艺路	2	1998年	10087	https://pic1.ajkimg.com/display/ajk/3cdca31abcfd2ebeb2b8932f4034028c/180x135c.jpg	https://m.anjuke.com/xa/community/330270/	186户
+自考办家属院	碑林区	文艺路	文艺南路	2	1990年	9055	https://pic1.ajkimg.com/display/ajk/ea4f5082d65b0be5d85c612f1f19c2b5/180x135c.jpg	https://m.anjuke.com/xa/community/452120/	126户
+兴庆御园小区	碑林区	西安交通大学	皇甫路100号	1		12195	https://pic1.ajkimg.com/display/ajk/e1ada1bc4329ad0f4103abdd09a5863e/180x135c.jpg	https://m.anjuke.com/xa/community/407924/	420户
+金茂晓苑	碑林区	长乐坊	新庆巷,近兴庆路	3	2007年	12928	https://pic1.ajkimg.com/display/ajk/b5cb500c9be0b989dcedd333343f42b4/180x135c.jpg	https://m.anjuke.com/xa/community/274778/	368户
+新文盛苑	碑林区	李家村	安东街	1		10533	https://pic1.ajkimg.com/display/ajk/6c8c9556fd9ca6706447aa2912765d6a/180x135c.jpg	https://m.anjuke.com/xa/community/830751/	1212户
+西勘院	碑林区	南稍门	体育馆东路	0	2015年	10321	https://pic1.ajkimg.com/display/ajk/742369c91512a7dd0d6b32df01808639/180x135c.jpg	https://m.anjuke.com/xa/community/303869/	168户
+雁塔路中段鲁家村小区	碑林区	李家村	雁塔北路	1	2015年	10255	https://pic1.ajkimg.com/display/ajk/ef78650598a2de388e5d7d01752a8d30/180x135c.jpg	https://m.anjuke.com/xa/community/830857/	84户
+太和广场	碑林区	南大街	东柳巷	1	2009年	10942	https://pic1.ajkimg.com/display/ajk/4abe52a0e88302bc67b8b3f2da524e7b/180x135c.jpg	https://m.anjuke.com/xa/community/951968/	379户
+心晴雅苑	碑林区	和平路	雁塔路中段17A号	1	2009年	12868	https://pic1.ajkimg.com/display/ajk/097daa21da22ac484519dd6e285de7f5/180x135c.jpg	https://m.anjuke.com/xa/community/274657/	236户
+东豪村小区	碑林区	文艺路	环城南路	2	2007年	10079	https://pic1.ajkimg.com/display/ajk/d39977c3a6f4571826f09dfead9b35a9/180x135c.jpg	https://m.anjuke.com/xa/community/312423/	210户
+南广济街小区	碑林区	南大街	南广济街93号	3	2002年	10937	https://pic1.ajkimg.com/display/ajk/80a757451b4916f103694279b7e3dbac/180x135c.jpg	https://m.anjuke.com/xa/community/308258/	248户
+华陆经九路小区	碑林区	太乙路	经九路3号	6	1998年	11592	https://pic1.ajkimg.com/display/ajk/7a271607e54d8b2db7c9fc3aa5318006/180x135c.jpg	https://m.anjuke.com/xa/community/315692/	894户
+西安市八十八号信箱家属院	碑林区	李家村	建东街2号	1		9138	https://pic1.ajkimg.com/display/ajk/b3fc8b1e70718735be5c4d6fd05019a0/180x135c.jpg	https://m.anjuke.com/xa/community/830436/	626户
+榕园公寓	碑林区	南大街	和平路99号	10	1998年	13552	https://pic1.ajkimg.com/display/ajk/d2b64a049863c0688f0ca3b0091d855f/180x135c.jpg	https://m.anjuke.com/xa/community/318741/	104户
+中富新村	碑林区	太乙路	建东街	3	2015年	11965	https://pic1.ajkimg.com/display/ajk/758378907b39fa5c092ea4604d413e57/180x135c.jpg	https://m.anjuke.com/xa/community/274589/	204户
+省医药公司家属院	碑林区	环城南路	索罗巷77号	9	2003年	10308	https://pic1.ajkimg.com/display/ajk/85f8e5948b09c633723759be0c3247f8/180x135c.jpg	https://m.anjuke.com/xa/community/879462/	784户
+中交一公院住宅区	碑林区	大学南路	大学南路4号	1	2015年	18105	https://pic1.ajkimg.com/display/ajk/f898f5182646c8673f75aa3473a90141/180x135c.jpg	https://m.anjuke.com/xa/community/620497/	1141户
+明苑花园	碑林区	东关正街	互助路8号	9	2006年	11256	https://pic1.ajkimg.com/display/ajk/61cf33ecf7a6c9fd589f0cd6f15c6271/180x135c.jpg	https://m.anjuke.com/xa/community/274307/	426户
+东道主国际公寓	碑林区	东大街	饮马池26号	0	2010年	12397	https://pic1.ajkimg.com/display/ajk/681c18578d4b2a58a6d173912f54a320/180x135c.jpg	https://m.anjuke.com/xa/community/303584/	168户
+省疾控中心家属院	碑林区	李家村	建东街3号	6	2004年	14925	https://pic1.ajkimg.com/display/ajk/f4f35f55ba6af93de00f7fb7d749a014/180x135c.jpg	https://m.anjuke.com/xa/community/1036930/	310户
+粉巷一号	碑林区	南大街	粉巷西1号	5	2008年	14273	https://pic1.ajkimg.com/display/ajk/4d42389124d5ce32622d5539a540ad7c/180x135c.jpg	https://m.anjuke.com/xa/community/953114/	274户
+东关南街小区	碑林区	东关南街	东关南街	0	2002年	9092	https://pic1.ajkimg.com/display/ajk/0b4060444eb14482e0eb871266521832/180x135c.jpg	https://m.anjuke.com/xa/community/299916/	122户
+碧水云轩	碑林区	西安交通大学	咸宁路9号	8	2002年	11125	https://pic1.ajkimg.com/display/ajk/7e7f2d2f2e857ef875cc4e7988d81fd4/180x135c.jpg	https://m.anjuke.com/xa/community/274810/	510户
+石化小区	碑林区	环城南路	雁塔路中段126号	0	1998年	10751	https://pic1.ajkimg.com/display/ajk/fae2c880429d6ebb3cb7fd36f17e6e0a/180x135c.jpg	https://m.anjuke.com/xa/community/376973/	160户
+朱雀花园	碑林区	体育场	朱雀大街	2	2011年	12897	https://pic1.ajkimg.com/display/ajk/91b4a9adc43ba4ab1943417829f5bfd3/180x135c.jpg	https://m.anjuke.com/xa/community/274942/	3676户
+电机厂家属院	碑林区	环城南路	金花北路26号	9	1999年	9470	https://pic1.ajkimg.com/display/ajk/0ac724facb228e34b64f8245f63025d0/180x135c.jpg	https://m.anjuke.com/xa/community/312746/	30户
+3513厂家属院	碑林区	环城南路	含光北路26号	0	1995年	11558	https://pic1.ajkimg.com/display/ajk/55bb1857483b50b11fa2b18a80a4059c/180x135c.jpg	https://m.anjuke.com/xa/community/306680/	1850户
+二保家属院	碑林区	红缨路	环城南路	4		12849	https://pic1.ajkimg.com/display/ajk/0631aac0f20889c168b909cf8a6b2ae2/180x135c.jpg	https://m.anjuke.com/xa/community/417053/	155户
+摩登COM商务公寓	碑林区	太乙路	乐居南路47号	5	2005年	13363	https://pic1.ajkimg.com/display/ajk/851f9a24302d0acf29adb589fbee13df/180x135c.jpg	https://m.anjuke.com/xa/community/274800/	347户
+城东小筑	碑林区	东关南街	伞塔路168号	2	2006年	10711	https://pic1.ajkimg.com/display/ajk/57ab21e4b6d7c0477b63ba9be5f7af30/180x135c.jpg	https://m.anjuke.com/xa/community/274841/	306户
+碑林区法院家属院	碑林区	何家村	含光路中段甲字29号	4	2010年	11415	https://pic1.ajkimg.com/display/ajk/8f5c91364972c1dc9394a181418f6108/180x135c.jpg	https://m.anjuke.com/xa/community/829914/	324户
+建材公司家属院	碑林区	李家村	建西街	4	2015年	10493	https://pic1.ajkimg.com/display/ajk/42e44577027d926a330da3669c924669/180x135c.jpg	https://m.anjuke.com/xa/community/313655/	30户
+西安电信互助路小区	碑林区	东关正街	互助路6号	14		13163	https://pic1.ajkimg.com/display/ajk/ea5ae8f8548632d07e3817b4bf34180b/180x135c.jpg	https://m.anjuke.com/xa/community/308993/	472户
+市政家属院	碑林区	长乐坊	古新巷6号	3	1998年	9993	https://pic1.ajkimg.com/display/ajk/c688671944bd9b958c04dc32dd0999df/180x135c.jpg	https://m.anjuke.com/xa/community/314492/	42户
+盛龙广场太白苑	碑林区	太白立交	二环南路西段151号	3	2014年	12697	https://pic1.ajkimg.com/display/ajk/55c9af1601899570ee20ad794e3b54ca/180x135c.jpg	https://m.anjuke.com/xa/community/830087/	1286户
+边家村小区	碑林区	太白立交	西何家路	1	1998年	10683	https://pic1.ajkimg.com/display/ajk/75085e11111bf711955b1d7bb2f3f1e0/180x135c.jpg	https://m.anjuke.com/xa/community/274622/	504户
+西北电业职工大学家属院(南区)	碑林区	文艺路	明胜街	5	2015年	10494	https://pic1.ajkimg.com/display/ajk/0591629826330f19c0167d96246841c1/180x135c.jpg	https://m.anjuke.com/xa/community/830531/	616户
+西安建筑科技大学家属院	碑林区	李家村	雁塔路13号	0		9785	https://pic1.ajkimg.com/display/ajk/c293db5314d9e1aae6a07d5fe6b0fb19/180x135c.jpg	https://m.anjuke.com/xa/community/395757/	3207户
+长安公馆	碑林区	南稍门	环城南路16号	2	2011年	17662	https://pic1.ajkimg.com/display/ajk/150b0dc94a422e9648945296943a15a5/180x135c.jpg	https://m.anjuke.com/xa/community/951979/	830户
+祥和花园	碑林区	何家村	二环南路西段115号	7	1999年	11223	https://pic1.ajkimg.com/display/ajk/ae25800bac13f923460ac6086555d778/180x135c.jpg	https://m.anjuke.com/xa/community/294139/	1236户
+文化小区(碑林)	碑林区	太乙路	乐居场	6	2015年	10338	https://pic1.ajkimg.com/display/ajk/345bf84f35f2cf2ea83640aeb867c0af/180x135c.jpg	https://m.anjuke.com/xa/community/305675/	532户
+索罗巷小区	碑林区	环城南路	索罗巷	4	1997年	9827	https://pic1.ajkimg.com/display/ajk/4a55ae3b884b09ebf5aee18cd45477ae/180x135c.jpg	https://m.anjuke.com/xa/community/303591/	476户
+阳光家园(碑林)	碑林区	长乐坊	更新街19号	1	2002年	9901	https://pic1.ajkimg.com/display/ajk/349a8a1c439521a80d50328677ad41ce/180x135c.jpg	https://m.anjuke.com/xa/community/312409/	84户
+乐居东方	碑林区	西安交通大学	乐居场正街68号	13	2009年	13361	https://pic1.ajkimg.com/display/ajk/f35009b93e25289eb126775f44286439/180x135c.jpg	https://m.anjuke.com/xa/community/274768/	202户
+体育馆家属院	碑林区	南门	体育馆南路2号	2	2004年	10807	https://pic1.ajkimg.com/display/ajk/542c2c52cf5ae3429c9d847c8de54c38/180x135c.jpg	https://m.anjuke.com/xa/community/314662/	351户
+大华花园	碑林区	文艺路	建东街151号	9	2009年	10868	https://pic1.ajkimg.com/display/ajk/8b745340a7a228b932fdcd229808665b/180x135c.jpg	https://m.anjuke.com/xa/community/274515/	224户
+南关村建设路小区	碑林区	文艺路	建设西路	2	2007年	10679	https://pic1.ajkimg.com/display/ajk/4461438e621002c7b5bf14d74386110d/180x135c.jpg	https://m.anjuke.com/xa/community/312513/	282户
+卧龙小区	碑林区	东大街	开通西巷5号	0	2005年	10064	https://pic1.ajkimg.com/display/ajk/c0a56404c8654eb0db4606578ae7e78f/180x135c.jpg	https://m.anjuke.com/xa/community/879434/	171户
+振兴嘉苑	碑林区	南门	振兴路64号	0	2009年	8709	https://pic1.ajkimg.com/display/ajk/f9775250454ccb575c06ce30e2eeeb16/180x135c.jpg	https://m.anjuke.com/xa/community/424355/	465户
+卧龙巷小区	碑林区	环城南路	卧龙巷	1	2002年	11012	https://pic1.ajkimg.com/display/ajk/28df86f15d1536d0e4e3195ed8a34929/180x135c.jpg	https://m.anjuke.com/xa/community/311525/	385户
+省建行朱雀路家属院	碑林区	西安交通大学	大学东路22号	5	2015年	12560	https://pic1.ajkimg.com/display/ajk/dec4f329a9f7a1d5f42a1f48fa2f5516/180x135c.jpg	https://m.anjuke.com/xa/community/592939/	528户
+张家西村	碑林区	红缨路	邮电北巷	6	2015年	9382	https://pic1.ajkimg.com/display/ajk/c6833536aa3f58d401df5c2d3f892139/180x135c.jpg	https://m.anjuke.com/xa/community/831034/	276户
+建大家属院	碑林区	李家村	建设东路122号	0	2015年	10614	https://pic1.ajkimg.com/display/ajk/9d6e61cbf07e3c51429b3b057de1fdf2/180x135c.jpg	https://m.anjuke.com/xa/community/331674/	426户
+奥林匹克中心广场	碑林区	体育场	长安北路14号	1	2011年	9306	https://pic1.ajkimg.com/display/ajk/2878f706ecbaa6feb0ee38dcc63ef5b3/180x135c.jpg	https://m.anjuke.com/xa/community/274529/	184户
+财政局家属院(碑林)	碑林区	边家村	永宁村80号	2	2009年	11418	https://pic1.ajkimg.com/display/ajk/ef79a3024c46f1acd046401cc20ed75d/180x135c.jpg	https://m.anjuke.com/xa/community/614831/	56户
+高山流水星座	碑林区	长乐坊	东二环路	26		12611	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1038907/	--
+菊花园36号家属院	碑林区	东大街	菊花园36号	0		10692	https://pic1.ajkimg.com/display/ajk/46b0db427d5dc55c794df57494ad370a/180x135c.jpg	https://m.anjuke.com/xa/community/951834/	72户
+普天小区	碑林区	环城南路	咸宁中路124号	0	2008年	9863	https://pic1.ajkimg.com/display/ajk/156302ea15ae80f6750658c4b2043cae/180x135c.jpg	https://m.anjuke.com/xa/community/320227/	1384户
+兴庆小区金花坊12号院	碑林区	东关正街	兴庆东巷	5		9373	https://pic1.ajkimg.com/display/ajk/78515f9339c987dd4202e0276a9f49ce/180x135c.jpg	https://m.anjuke.com/xa/community/1062233/	48户
+西北电力研究家属院	碑林区	西安交通大学	金水路40号	1		11827	https://pic1.ajkimg.com/display/ajk/15fca18d7ba56e7120d8325abbe3b308/180x135c.jpg	https://m.anjuke.com/xa/community/1044688/	148户
+西铁警校家属院	碑林区	西安交通大学	南二环东段43号	0		12005	https://pic1.ajkimg.com/display/ajk/396985b34750f728c4d4d0bde61148b2/180x135c.jpg	https://m.anjuke.com/xa/community/830637/	296户
+含光苑	碑林区	何家村	含光中路15号	3	2008年	11041	https://pic1.ajkimg.com/display/ajk/3064301f8d56866cda69d1ed634b560c/180x135c.jpg	https://m.anjuke.com/xa/community/299724/	196户
+含光中学家属院	碑林区	环城南路	大学南路1号	5		12135	https://pic1.ajkimg.com/display/ajk/9a58c31dddfbefc3d6229ac553a5b923/180x135c.jpg	https://m.anjuke.com/xa/community/830461/	256户
+景龙池新居	碑林区	东关南街	景龙池68号	6	2002年	10260	https://pic1.ajkimg.com/display/ajk/06dd594c5a0c983f420dda35e8146c92/180x135c.jpg	https://m.anjuke.com/xa/community/274849/	164户
+建行家属院(边家村)	碑林区	边家村	水文巷6号	1	2015年	12983	https://pic1.ajkimg.com/display/ajk/c621e12ad1f127b66d03592278b7f693/180x135c.jpg	https://m.anjuke.com/xa/community/410387/	56户
+古新巷小区	碑林区	东关南街	古新巷18号	1	2007年	9928	https://pic1.ajkimg.com/display/ajk/0b87088ea2fb085c6cf2bd6f87c43a76/180x135c.jpg	https://m.anjuke.com/xa/community/308733/	276户
+菊林公寓	碑林区	南大街	菊花园85号	7	2015年	9400	https://pic1.ajkimg.com/display/ajk/11ecc7c13ba7a906b096bea712000639/180x135c.jpg	https://m.anjuke.com/xa/community/315169/	78户
+陕西省地矿局家属院	碑林区	东大街	端履门24号	2	2015年	12096	https://pic1.ajkimg.com/display/ajk/541c54bfdb1f968dd38ad0635e894826/180x135c.jpg	https://m.anjuke.com/xa/community/829993/	450户
+陕建八公司白庙馨苑小区	碑林区	西工大	南二环西段17号	0	2015年	13185	https://pic1.ajkimg.com/display/ajk/8eda7fb54d0fba801df88082bc492539/180x135c.jpg	https://m.anjuke.com/xa/community/315432/	240户
+互助路一号	碑林区	东关正街	互助路1号	1	2013年	12606	https://pic1.ajkimg.com/display/ajk/6f0f751aa4d9a1fd0848269b5570cb2b/180x135c.jpg	https://m.anjuke.com/xa/community/952004/	418户
+黄金屋住宅楼	碑林区	大学南路	边西街2号	15	2007年	15962	https://pic1.ajkimg.com/display/ajk/422b6c4f829da44253316fec7a392acb/180x135c.jpg	https://m.anjuke.com/xa/community/274603/	243户
+中铁一局家属院	碑林区	西安交通大学	太乙路南段25号	1	2008年	13492	https://pic1.ajkimg.com/display/ajk/6b5344f5e57731290ff1767f3a5436f3/180x135c.jpg	https://m.anjuke.com/xa/community/290716/	188户
+公安碑林分局家属院	碑林区	环城南路	更新街	13	1998年	13368	https://pic1.ajkimg.com/display/ajk/f890ec689b05818f4770b9ee555ba640/180x135c.jpg	https://m.anjuke.com/xa/community/274707/	496户
+地矿局家属院	碑林区	文艺路	长胜街99号	0	2015年	14917	https://pic1.ajkimg.com/display/ajk/3592e8000c16a8d4105719eef90556f4/180x135c.jpg	https://m.anjuke.com/xa/community/313738/	644户
+东新花园(碑林)	碑林区	西安交通大学	交大街	8	2005年	8218	https://pic1.ajkimg.com/display/ajk/d715cdad6a736f35ad45858d53c7a885/180x135c.jpg	https://m.anjuke.com/xa/community/830181/	156户
+粮油局家属院	碑林区	友谊东路	乐居南路19号	5	2006年	10154	https://pic1.ajkimg.com/display/ajk/fd2552c4938c06449b46591c7334be04/180x135c.jpg	https://m.anjuke.com/xa/community/830966/	91户
+德鑫园小区	碑林区	东关正街	互助路	15	1999年	8532	https://pic1.ajkimg.com/display/ajk/d5625b49e12f6f9307b3a55e7ab7ac76/180x135c.jpg	https://m.anjuke.com/xa/community/274452/	189户
+陕建一建集团和平门小区二院	碑林区	李家村	建东街53号	1		8806	https://pic1.ajkimg.com/display/ajk/44f67315c2e5ce1cf1ab7f4e4ed4bc77/180x135c.jpg	https://m.anjuke.com/xa/community/1062243/	65户
+铁一局家属院	碑林区	太乙路	太乙路	0	2015年	14562	https://pic1.ajkimg.com/display/ajk/a1c7d222f72a4d81986c6fe7cb9382d4/180x135c.jpg	https://m.anjuke.com/xa/community/401999/	172户
+管委会家属院(碑林)	碑林区	西安交通大学	火炬路1号	0	2015年	11962	https://pic1.ajkimg.com/display/ajk/239fcba5963010b47c3339dd6b8ff949/180x135c.jpg	https://m.anjuke.com/xa/community/830367/	96户
+铂林美域	碑林区	东大街	柏树林街41号	0	2011年	10198	https://pic1.ajkimg.com/display/ajk/023c214247bebb9f30caae2c2df11e9a/180x135c.jpg	https://m.anjuke.com/xa/community/274565/	314户
+安装技校家属院	碑林区	红缨路	红缨东坊12号	10		13174	https://pic1.ajkimg.com/display/ajk/8fd881174d53d0dabdfe65fbcc271e29/180x135c.jpg	https://m.anjuke.com/xa/community/608990/	279户
+煤炭工业西安设计研究院住宅区	碑林区	西安交通大学	南二环东段137号	1	2004年	11666	https://pic1.ajkimg.com/display/ajk/541838300dc91a958bbb675d1ee9a9ee/180x135c.jpg	https://m.anjuke.com/xa/community/351205/	3576户
+丝绸公司家属院	碑林区	环城南路	大学东路43号	0	1999年	9342	https://pic1.ajkimg.com/display/ajk/8e772eb53a3793b606fc990dca0077cb/180x135c.jpg	https://m.anjuke.com/xa/community/830164/	185户
+外贸纺织品进出口家属院	碑林区	南稍门	体育馆路27号	4		9765	https://pic1.ajkimg.com/display/ajk/3f54c360b2a677eeb6ab6f254e72b6d1/180x135c.jpg	https://m.anjuke.com/xa/community/830265/	84户
+庙子巷甲字1号院	碑林区	长乐坊	庙子巷14号	6		9663	https://pic1.ajkimg.com/display/ajk/6243ce1f9b4bd019bdacf53f6614f7b5/180x135c.jpg	https://m.anjuke.com/xa/community/879451/	90户
+和平公馆	碑林区	大差市	和平路96号	2	2014年	11052	https://pic1.ajkimg.com/display/ajk/0f59e7e03fceeff3907ae8054d6d99ef/180x135c.jpg	https://m.anjuke.com/xa/community/308528/	272户
+西厦大厦	碑林区	长乐坊	东关正街18号	1	2012年	13095	https://pic1.ajkimg.com/display/ajk/ff1a4e171a2d162dca348437c5d6b5c9/180x135c.jpg	https://m.anjuke.com/xa/community/367814/	225户
+质监局家属院	碑林区	西安交通大学	咸宁西路30号	0	2010年	11428	https://pic1.ajkimg.com/display/ajk/802743feaa0d0a6e1f38b362b0d10a8e/180x135c.jpg	https://m.anjuke.com/xa/community/831153/	494户
+西安市人民检察院家属院	碑林区	环城南路	朱雀大街北段211号	6	1999年	10427	https://pic1.ajkimg.com/display/ajk/83899f285d59237d50f74bbdba00664d/180x135c.jpg	https://m.anjuke.com/xa/community/315908/	426户
+陕西省公路局家属住宅区	碑林区	红缨路	含光北路128号	0		9166	https://pic1.ajkimg.com/display/ajk/085eb4716f4e1df5bd5f5b3e84bf8c1d/180x135c.jpg	https://m.anjuke.com/xa/community/830005/	520户
+秦良大厦	碑林区	边家村	太白北路103号	4	2004年	12263	https://pic1.ajkimg.com/display/ajk/244b52d962f263efa7f01c435a337493/180x135c.jpg	https://m.anjuke.com/xa/community/879526/	72户
+碑林区工商局家属楼	碑林区	文艺路	体育馆东路23号	0		11189	https://pic1.ajkimg.com/display/ajk/2837ce232e342ee9508518868d7c9668/180x135c.jpg	https://m.anjuke.com/xa/community/829916/	132户
+学院山(文艺路)	碑林区	文艺路	文艺南路	10	2014年	15125	https://pic1.ajkimg.com/display/ajk/30560a53aa45f9521904aaa4dad561d5/180x135c.jpg	https://m.anjuke.com/xa/community/534326/	590户
+粮食局家属院	碑林区	南稍门	南关正街17号	2	2015年	10862	https://pic1.ajkimg.com/display/ajk/36b870136cbd78a458d90f7f3a60d394/180x135c.jpg	https://m.anjuke.com/xa/community/356663/	36户
+红会医院家属院	碑林区	南稍门	南郭路	0		11887	https://pic1.ajkimg.com/display/ajk/6e59069dfba6a1e80d6c85a688f0857d/180x135c.jpg	https://m.anjuke.com/xa/community/317143/	350户
+陕西省人保家属院	碑林区	小雁塔	体育场北路	1		10066	https://pic1.ajkimg.com/display/ajk/1ca595d4f1e7428c7fc86b5f2859e02f/180x135c.jpg	https://m.anjuke.com/xa/community/829871/	95户
+秦海大厦	碑林区	红缨路	水文巷1号	0		14020	https://pic1.ajkimg.com/display/ajk/0dc475dbb5fbf0fdc626a01ef6c53d2a/180x135c.jpg	https://m.anjuke.com/xa/community/445854/	234户
+测绘西路一号院	碑林区	李家村	建设路西段	1		11133	https://pic1.ajkimg.com/display/ajk/59903750d33d157b51895da4011d3afd/180x135c.jpg	https://m.anjuke.com/xa/community/951875/	84户
+孟家巷新区	碑林区	长乐坊	北廓门21号	0	2015年	8951	https://pic1.ajkimg.com/display/ajk/4301c37381f54e65d4a3d7a947df7412/180x135c.jpg	https://m.anjuke.com/xa/community/308813/	960户
+迈科星苑	碑林区	环城南路	南二环东段545号	5	2010年	11033	https://pic1.ajkimg.com/display/ajk/e4c982d491cfc0c3abdb3b293bed6f9b/180x135c.jpg	https://m.anjuke.com/xa/community/274279/	64户
+红会小区	碑林区	文艺路	南郭路58号	0	2001年	10733	https://pic1.ajkimg.com/display/ajk/9116d3f9e5753e54ad6f887d39afe059/180x135c.jpg	https://m.anjuke.com/xa/community/562840/	324户
+交通新苑	碑林区	南门	振兴路89号	4	2008年	15098	https://pic1.ajkimg.com/display/ajk/cb5f81fe86ac4cad9c4550a1231d8c11/180x135c.jpg	https://m.anjuke.com/xa/community/320963/	260户
+陕西电力设计院家属院	碑林区	文艺路	文艺北路123号	0		10014	https://pic1.ajkimg.com/display/ajk/d4e6cbc5e4709842c008395482255e4e/180x135c.jpg	https://m.anjuke.com/xa/community/829974/	108户
+西窑坊小区	碑林区	长乐坊	伞塔路169号	26		9765	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1082287/	--
+万达新天地	碑林区	南大街	东大街	1	2012年	13186	https://pic1.ajkimg.com/display/ajk/226c9855c3ee44b70d55b7372752c168/180x135c.jpg	https://m.anjuke.com/xa/community/951971/	684户
+环保局家属院	碑林区	长乐坊	伍道什字南街32号	1		10099	https://pic1.ajkimg.com/display/ajk/db8dff93507d3f391a484ee569566714/180x135c.jpg	https://m.anjuke.com/xa/community/311532/	84户
+广济街小区	碑林区	广济街	南广济街83号	2	2002年	12011	https://pic1.ajkimg.com/display/ajk/fe6eba69c90c5c21f9adc478881c1ed4/180x135c.jpg	https://m.anjuke.com/xa/community/318297/	1592户
+省文化广厦	碑林区	文艺路	文艺北路9号	20	2004年	13571	https://pic1.ajkimg.com/display/ajk/ab3d105e60b43122360a95b115f0890d/180x135c.jpg	https://m.anjuke.com/xa/community/879517/	480户
+美美公寓	碑林区	环城南路	文艺北路仁义付一号	0	2010年	9757	https://pic1.ajkimg.com/display/ajk/ebbae680fc0ceee5044575d0aef3dcec/180x135c.jpg	https://m.anjuke.com/xa/community/317198/	121户
+陕三建小区	碑林区	文艺路	测绘西路85号	0	2005年	13024	https://pic1.ajkimg.com/display/ajk/247a8c5f3432f778a08bcbfc2eaab5a1/180x135c.jpg	https://m.anjuke.com/xa/community/545758/	336户
+大车家巷5号院	碑林区	南大街	大车家巷5号	2		10145	https://pic1.ajkimg.com/display/ajk/388e14c3f6851ddcc119236f63adc049/180x135c.jpg	https://m.anjuke.com/xa/community/1062262/	152户
+和平大道	碑林区	大差市	和平路66号	0	2009年	10855	https://pic1.ajkimg.com/display/ajk/0339d7c2f63be2cda8e0f4632ac49400/180x135c.jpg	https://m.anjuke.com/xa/community/595821/	366户
+文艺路小学家属院	碑林区	南稍门	文艺北路20号	1		10401	https://pic1.ajkimg.com/display/ajk/6faf4c337177fd66cece72a4561e3e32/180x135c.jpg	https://m.anjuke.com/xa/community/1067120/	70户
+永宁庄	碑林区	长乐坊	柿园路49号	6	2000年	10666	https://pic1.ajkimg.com/display/ajk/256579a9a59d13b2fedea1ec93b2acac/180x135c.jpg	https://m.anjuke.com/xa/community/830959/	756户
+景龙洋楼	碑林区	东关南街	景龙池30号	12	2003年	9636	https://pic1.ajkimg.com/display/ajk/789679e6754fbeba4c508e6e81d8e819/180x135c.jpg	https://m.anjuke.com/xa/community/274855/	86户
+皇城美居	碑林区	南大街	东大街,近东仓门	0	2014年	9139	https://pic1.ajkimg.com/display/ajk/b66a96db3df5c37494aa3195fc1c9669/180x135c.jpg	https://m.anjuke.com/xa/community/401136/	224户
+瓦窑小区	碑林区	文艺路	测绘西路33号	0	1998年	10197	https://pic1.ajkimg.com/display/ajk/97fa048b1848710b6f2569999a2d28de/180x135c.jpg	https://m.anjuke.com/xa/community/308494/	342户
+广电小区长胜街院3区	碑林区	李家村	长胜街6号	0	1998年	10271	https://pic1.ajkimg.com/display/ajk/30d9a978432d768217321479bb0ea24d/180x135c.jpg	https://m.anjuke.com/xa/community/313699/	296户
+大车家巷社区	碑林区	南大街	大车家巷5号	1		10581	https://pic1.ajkimg.com/display/ajk/fef2a0971bad8393ed21f2fab80ee25b/180x135c.jpg	https://m.anjuke.com/xa/community/376204/	96户
+华陆太乙路小区	碑林区	西安交通大学	太乙路255号	2	1998年	11989	https://pic1.ajkimg.com/display/ajk/1af2d149fd0e7537c4c0a67d0f1b0f4d/180x135c.jpg	https://m.anjuke.com/xa/community/431494/	216户
+中铁一局集团太乙路东院小区	碑林区	李家村	太乙路39号	21		15178	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1286846/	--
+公园南路115街坊	碑林区	西安交通大学	公园南路56号	0		11268	https://pic1.ajkimg.com/display/ajk/3b49da116e8f4bf3c35e633962e9a1b0/180x135c.jpg	https://m.anjuke.com/xa/community/316940/	676户
+冉家村小区	碑林区	文艺路	体育路33号	2	2015年	9351	https://pic1.ajkimg.com/display/ajk/271adc1dbaf7e259fd9d025779ac30d3/180x135c.jpg	https://m.anjuke.com/xa/community/426689/	224户
+省纪委监察厅家属院	碑林区	友谊东路	友谊东路	1	2006年	12207	https://pic1.ajkimg.com/display/ajk/05900727955c4ed47cfeea74e4769b6b/180x135c.jpg	https://m.anjuke.com/xa/community/308571/	56户
+电信小区(碑林区)	碑林区	南稍门	长安北路33号	0		11172	https://pic1.ajkimg.com/display/ajk/afef22b5f3d76a22434836964e83b065/180x135c.jpg	https://m.anjuke.com/xa/community/951725/	85户
+兴庆丽景	碑林区	环城南路	兴庆路	0	2006年	9987	https://pic1.ajkimg.com/display/ajk/f536c05537f835d47a8730eda2109fdd/180x135c.jpg	https://m.anjuke.com/xa/community/320912/	102户
+西安建筑设计研究院家属院	碑林区	太乙路	安东街112号	0	2001年	10699	https://pic1.ajkimg.com/display/ajk/73c1448e2a31f3a16c2b12edc2de3318/180x135c.jpg	https://m.anjuke.com/xa/community/830410/	930户
+团委家属院	碑林区	环城南路	邮电北巷	6	2005年	11756	https://pic1.ajkimg.com/display/ajk/de20411af303a782979d23377187694c/180x135c.jpg	https://m.anjuke.com/xa/community/311748/	336户
+启智学院家属院	碑林区	红缨路	大学南路7号	1		12574	https://pic1.ajkimg.com/display/ajk/403692e6c2a61b7b6a44d7f4dfbcf1df/180x135c.jpg	https://m.anjuke.com/xa/community/343402/	24户
+西安市蔬菜盐业公司家属院(碑林)	碑林区	环城南路	仁厚庄北路1号	0	2008年	10458	https://pic1.ajkimg.com/display/ajk/a3d9b3d7955aee4d16c9b8b1b94d730d/180x135c.jpg	https://m.anjuke.com/xa/community/314649/	60户
+北廓门小区	碑林区	长乐坊	北郭门85号	1	2005年	8463	https://pic1.ajkimg.com/display/ajk/e3af6896ed446871e3d0bfed2b837410/180x135c.jpg	https://m.anjuke.com/xa/community/311330/	144户
+陕建八公司边东院住宅小区	碑林区	边家村	边西街22号	0	1998年	11995	https://pic1.ajkimg.com/display/ajk/e18e83f493f3e7548be59533c3f08322/180x135c.jpg	https://m.anjuke.com/xa/community/829955/	2172户
+西工大南苑	碑林区	友谊西路	友谊西路	0		15245	https://pic1.ajkimg.com/display/ajk/fc29603d5ff84568f666c5685fb716fb/180x135c.jpg	https://m.anjuke.com/xa/community/319417/	384户
+西安市出租汽车公司二分公司兴庆路小区	碑林区	长乐坊	兴庆北路105号	0	2015年	8870	https://pic1.ajkimg.com/display/ajk/f5f785bb217bc6f664de09603d0be029/180x135c.jpg	https://m.anjuke.com/xa/community/830441/	294户
+含光北苑小区	碑林区	红缨路	含光北路123号	1		11647	https://pic1.ajkimg.com/display/ajk/2e587133d1b4835e52297404f5dfd50f/180x135c.jpg	https://m.anjuke.com/xa/community/307030/	208户
+碑林地税局家属院	碑林区	红缨路	含光中路55号	0		10053	https://pic1.ajkimg.com/display/ajk/2b8274cfe832ad551335fa45ca9792ce/180x135c.jpg	https://m.anjuke.com/xa/community/1061047/	126户
+佳铭小区	碑林区	东关南街	东关南街216号	0	2007年	8826	https://pic1.ajkimg.com/display/ajk/63023a3e2f4068dedb4c3458c4a8250b/180x135c.jpg	https://m.anjuke.com/xa/community/830706/	815户
+中煤科工西安院雁塔路住宅区	碑林区	李家村	雁塔北路29号	0		10609	https://pic1.ajkimg.com/display/ajk/b81763006b7c0ccf9135285f391af8d9/180x135c.jpg	https://m.anjuke.com/xa/community/831219/	360户
+陕西出入境检验检疫局家属院	碑林区	何家村	含光北路10号	0	2015年	9912	https://pic1.ajkimg.com/display/ajk/5c7d97fabf5a745eaf66db8d2c631759/180x135c.jpg	https://m.anjuke.com/xa/community/315989/	120户
+糖果厂家属院	碑林区	小雁塔	红缨路87号	2		10987	https://pic1.ajkimg.com/display/ajk/925424e2d909d969d22d9d51881cd486/180x135c.jpg	https://m.anjuke.com/xa/community/488710/	140户
+市机关二号院	碑林区	东关南街	蔡家巷	0	1997年	11395	https://pic1.ajkimg.com/display/ajk/fccf341cb45bfcdadca4d5203ec216ba/180x135c.jpg	https://m.anjuke.com/xa/community/319977/	358户
+西北电业职工大学家属院(北区)	碑林区	东大街	明胜街	18		10944	https://pic1.ajkimg.com/display/ajk/2090415c212963e5819fcef23d68a3ce/180x135c.jpg	https://m.anjuke.com/xa/community/1245112/	--
+三五三八社区	碑林区	南稍门	草场坡	0		9650	https://pic1.ajkimg.com/display/ajk/93f09f06c46bf627cb324c6a876735f4/180x135c.jpg	https://m.anjuke.com/xa/community/951857/	274户
+西安市卫生学校家属院	碑林区	文艺路	友谊东路398号	0	2015年	8341	https://pic1.ajkimg.com/display/ajk/5f0fa6b179d8a8dff7fa9ba04ad69d63/180x135c.jpg	https://m.anjuke.com/xa/community/372995/	416户
+西安东方漂染厂家属院	碑林区	东关正街	互助路14号	4		9251	https://pic1.ajkimg.com/display/ajk/7e4e74c6528636f29805860556091f99/180x135c.jpg	https://m.anjuke.com/xa/community/830388/	104户
+工商局家属院(碑林)	碑林区	何家村	含光北路2号	2	1998年	9541	https://pic1.ajkimg.com/display/ajk/d1994333d6e83156776a22132d328f1a/180x135c.jpg	https://m.anjuke.com/xa/community/479597/	96户
+物资路3号院	碑林区	南稍门	文艺西路3号	1		10580	https://pic1.ajkimg.com/display/ajk/7b425be7da42c1fad8da6ad1ce3249cd/180x135c.jpg	https://m.anjuke.com/xa/community/1062252/	49户
+东城新居	碑林区	长乐坊	伍道十字南街	0	2007年	10254	https://pic1.ajkimg.com/display/ajk/e4f176b1bad9c67358f7014e86513e71/180x135c.jpg	https://m.anjuke.com/xa/community/403990/	117户
+碑林博物馆家属院	碑林区	红缨路	仁义村47号	7		11257	https://pic1.ajkimg.com/display/ajk/ccb2ece9630e2369b30f4ad7178035ae/180x135c.jpg	https://m.anjuke.com/xa/community/829913/	175户
+乐居厂第一社区	碑林区	太乙路	乐居场	3	1998年	10240	https://pic1.ajkimg.com/display/ajk/3bbcaf1cf7a7f4695174c5dea6d0124a/180x135c.jpg	https://m.anjuke.com/xa/community/520439/	72户
+物价局家属院	碑林区	环城南路	伞塔路159号	0	2000年	10638	https://pic1.ajkimg.com/display/ajk/95f559571208db4f236a11feeeba9fa1/180x135c.jpg	https://m.anjuke.com/xa/community/333930/	112户
+体教公寓	碑林区	环城南路	长安北路	2	2007年	14368	https://pic1.ajkimg.com/display/ajk/8b3450672f6f1866dc5fe769fb44078b/180x135c.jpg	https://m.anjuke.com/xa/community/314131/	540户
+丽苑小区	碑林区	东大街	太乙路192号	27		11832	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266130/	--
+景龙社区	碑林区	长乐坊	窦府巷20号	7	2009年	9591	https://pic1.ajkimg.com/display/ajk/ed06628c44059501ca63868be766fa29/180x135c.jpg	https://m.anjuke.com/xa/community/363937/	256户
+刁家村小区	碑林区	文艺路	永胜街53号	0	1999年	10180	https://pic1.ajkimg.com/display/ajk/d3be9853267451582d0957edef5070df/180x135c.jpg	https://m.anjuke.com/xa/community/313595/	182户
+边家村冶金院	碑林区	环城南路	友谊西路	0	2009年	12203	https://pic1.ajkimg.com/display/ajk/8d9c66d3174812159f2fe93b589789b3/180x135c.jpg	https://m.anjuke.com/xa/community/829959/	526户
+煤科院家属院	碑林区	李家村	建西街	1		11473	https://pic1.ajkimg.com/display/ajk/8eb2ef488b54bce83dbe2fab50ef4ba8/180x135c.jpg	https://m.anjuke.com/xa/community/324814/	758户
+建设设计院小区	碑林区	李家村	雁塔北路95号	0	2015年	10000	https://pic1.ajkimg.com/display/ajk/25bb501e4f6da5e3de655cfd9b87d945/180x135c.jpg	https://m.anjuke.com/xa/community/830736/	503户
+东厅门小区	碑林区	南大街	东大街	1	1998年	10013	https://pic1.ajkimg.com/display/ajk/82249be6c3f5ab5a553a9ad079f94ad6/180x135c.jpg	https://m.anjuke.com/xa/community/361516/	252户
+卧龙巷四号院机关小区	碑林区	长乐坊	卧龙巷	3		11760	https://pic1.ajkimg.com/display/ajk/0772fbb623ec550e3d5fe36132fbc807/180x135c.jpg	https://m.anjuke.com/xa/community/1068693/	91户
+朱雀北区社区	碑林区	南大街	振兴路94号	0		11713	https://pic1.ajkimg.com/display/ajk/489a7b1bc1af0157be1f4f3fb7c97bc2/180x135c.jpg	https://m.anjuke.com/xa/community/1062221/	666户
+市政二公司家属院	碑林区	太乙路	长胜街1号	1	2015年	11929	https://pic1.ajkimg.com/display/ajk/dcc2185c0592cd442404d3933fa19dbf/180x135c.jpg	https://m.anjuke.com/xa/community/830136/	60户
+和南社区	碑林区	长乐坊	东十道巷15号	0	2015年	11365	https://pic1.ajkimg.com/display/ajk/342a8e913c9a66f922ad7cd56b4b0cd6/180x135c.jpg	https://m.anjuke.com/xa/community/830518/	507户
+陕西省公安厅家属院	碑林区	何家村	水文巷附2号	0	2015年	10065	https://pic1.ajkimg.com/display/ajk/23ff0da3a185d0a68634f8b43fb8447a/180x135c.jpg	https://m.anjuke.com/xa/community/830003/	1058户
+八仙庵小区	碑林区	长乐坊	北火巷12号	3	1999年	10431	https://pic1.ajkimg.com/display/ajk/4e2f6c6b76277f30a133768eaf79f6f1/180x135c.jpg	https://m.anjuke.com/xa/community/317848/	120户
+西安市饮食公司家属院	碑林区	长乐坊	互助路90号	4		8718	https://pic1.ajkimg.com/display/ajk/1bcc2c1ed39008d1c097c933a8260e40/180x135c.jpg	https://m.anjuke.com/xa/community/1046753/	54户
+南关综合楼	碑林区	红缨路	友谊西路158号	0		12709	https://pic1.ajkimg.com/display/ajk/65f983060202dac8a77d7c92617058e2/180x135c.jpg	https://m.anjuke.com/xa/community/806059/	598户
+陕建五公司家属院(碑林)	碑林区	环城南路	金花北路14号	1	2009年	9050	https://pic1.ajkimg.com/display/ajk/e9fb3f993d6a6c56e23423d951c5e441/180x135c.jpg	https://m.anjuke.com/xa/community/466104/	488户
+乐居场小区A4区	碑林区	西安交通大学	建东街东段6号	0		10181	https://pic1.ajkimg.com/display/ajk/0474ff99254686aebf71209b96195f0d/180x135c.jpg	https://m.anjuke.com/xa/community/1063199/	2106户
+陕西消防总队家属院	碑林区	李家村	安东街11号	2	2004年	8752	https://pic1.ajkimg.com/display/ajk/888d496eb8b738d11d3085e8911aa6a5/180x135c.jpg	https://m.anjuke.com/xa/community/1062273/	72户
+中国建筑材料西北公司南楼	碑林区	红缨路	市边西街2号	0	2015年	10123	https://pic1.ajkimg.com/display/ajk/5f0a0911c86839146e6513d897bb0b7c/180x135c.jpg	https://m.anjuke.com/xa/community/831166/	30户
+嘉馨园住宅小区	碑林区	文艺路	南关正街53号	0	2003年	10991	https://pic1.ajkimg.com/display/ajk/0b240df5d428b82160c2966eaaf199b0/180x135c.jpg	https://m.anjuke.com/xa/community/317805/	112户
+陕建八公司十八号院住宅小区	碑林区	西工大	大学南路246号	0		10817	https://pic1.ajkimg.com/display/ajk/7ccbc3841de87cf683e86013d198f02a/180x135c.jpg	https://m.anjuke.com/xa/community/829957/	126户
+瑞华苑	碑林区	李家村	东关南街101号	0		8521	https://pic1.ajkimg.com/display/ajk/ba8a5403ce36e39b3ee43087ab229369/180x135c.jpg	https://m.anjuke.com/xa/community/314456/	192户
+长乐大厦(碑林)	碑林区	长乐坊	长乐坊102号	0		9809	https://pic1.ajkimg.com/display/ajk/2090374b19f2c487fcc6ff19ae3d86b3/180x135c.jpg	https://m.anjuke.com/xa/community/1064991/	612户
+城市之心	碑林区	南大街	端履门2号	1		9321	https://pic1.ajkimg.com/display/ajk/fdf185e74027ca363c216f2759e152c4/180x135c.jpg	https://m.anjuke.com/xa/community/1064693/	252户
+建设路乙字2号小区	碑林区	李家村	建设路	2		9931	https://pic1.ajkimg.com/display/ajk/94b18f4b1a07121504d8eced81f1b0bf/180x135c.jpg	https://m.anjuke.com/xa/community/1062288/	98户
+艺华大厦	碑林区	南稍门	文艺南路82号	2	2009年	9729	https://pic1.ajkimg.com/display/ajk/eff7d3db49ab88febd422d8283ecbfb1/180x135c.jpg	https://m.anjuke.com/xa/community/351161/	189户
+红缨社区	碑林区	红缨路	红缨路	0	2015年	10678	https://pic1.ajkimg.com/display/ajk/9a304523f223f599abf40edba49e1e82/180x135c.jpg	https://m.anjuke.com/xa/community/337107/	154户
+中铁一局建安总公司家属院	碑林区	太乙路	太安路1号	0	2003年	10497	https://pic1.ajkimg.com/display/ajk/3e03df0a98ab9007c731b68d7cdb1fdf/180x135c.jpg	https://m.anjuke.com/xa/community/721080/	182户
+祥凝瑞集	碑林区	南大街	德福巷21号	0	2015年	10021	https://pic1.ajkimg.com/display/ajk/2ea5f5c6afcf351ca8fe688a58020499/180x135c.jpg	https://m.anjuke.com/xa/community/830704/	240户
+金顶人家	碑林区	大差市	建国路31号	0	2010年	12209	https://pic1.ajkimg.com/display/ajk/60af3ff242af9bf6cfe6ce7d660bf405/180x135c.jpg	https://m.anjuke.com/xa/community/274512/	246户
+西安市兴庆路干休所	碑林区	长乐坊	兴庆路69号	1		7757	https://pic1.ajkimg.com/display/ajk/1256d727fcffb0d647b20df62a087208/180x135c.jpg	https://m.anjuke.com/xa/community/830479/	108户
+西安三建安西街家属院	碑林区	大差市	安西街甲字7号	0		11351	https://pic1.ajkimg.com/display/ajk/74f82d74117a9475c4e6532710e11758/180x135c.jpg	https://m.anjuke.com/xa/community/830433/	387户
+陕西日报社家属院(李家村)	碑林区	李家村	安东街附7号	0	1996年	10466	https://pic1.ajkimg.com/display/ajk/44d773a58827725fee98bcabd9c0fe54/180x135c.jpg	https://m.anjuke.com/xa/community/829987/	588户
+鸿雁社区	碑林区	环城南路	邮电北巷26号	0	2003年	9344	https://pic1.ajkimg.com/display/ajk/b8949bb7f40a700a7e2ebefb9fb0b768/180x135c.jpg	https://m.anjuke.com/xa/community/830577/	276户
+陕西建设技术学院家属院	碑林区	小雁塔	红缨东坊11号	0		9516	https://pic1.ajkimg.com/display/ajk/bf1b012f950eaf02c315c296a0efaa3a/180x135c.jpg	https://m.anjuke.com/xa/community/829982/	162户
+物探大厦	碑林区	边家村	友谊西路230号	2	2001年	11111	https://pic1.ajkimg.com/display/ajk/a119f085af00d5134d6c234639f6a323/180x135c.jpg	https://m.anjuke.com/xa/community/879436/	106户
+市土地局家属院	碑林区	太乙路	安东街49号	0	2000年	9245	https://pic1.ajkimg.com/display/ajk/95836193d8a05767cc976a388e2a5acc/180x135c.jpg	https://m.anjuke.com/xa/community/879465/	266户
+金叶大厦	碑林区	长乐坊	炮房街36号	0		10027	https://pic1.ajkimg.com/display/ajk/8295205e6c00f01fbf7c93c8f965d1e5/180x135c.jpg	https://m.anjuke.com/xa/community/320948/	600户
+建国四巷23号院	碑林区	东大街	先锋巷	4		12320	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291783/	--
+工行家属院(芦荡巷)	碑林区	南大街	芦荡巷2号	0		10269	https://pic1.ajkimg.com/display/ajk/df59578ae3cd57fa8ea9d339cac141dc/180x135c.jpg	https://m.anjuke.com/xa/community/1062204/	60户
+乐居都会	碑林区	西安交通大学	咸宁西路29号	9	2014年	9444	https://pic1.ajkimg.com/display/ajk/0b87ea6a7e521137f65918a9dbe26551/180x135c.jpg	https://m.anjuke.com/xa/community/998657/	--
+陕西日报家属院(南门)	碑林区	南大街	菊花园34号	0	1996年	10488	https://pic1.ajkimg.com/display/ajk/33315993838d13c3c2f5d7318747dd8a/180x135c.jpg	https://m.anjuke.com/xa/community/951833/	144户
+中国通信建设第二工程局家属南院	碑林区	红缨路	邮电南巷25号	1	2015年	9247	https://pic1.ajkimg.com/display/ajk/b3b1e3166e4aba25d0857271c36977b1/180x135c.jpg	https://m.anjuke.com/xa/community/831181/	96户
+税务局家属院	碑林区	东大街	环城南路	1		10589	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1286848/	--
+金泉小区	碑林区	南稍门	朱雀大街北段21号	0		13788	https://pic1.ajkimg.com/display/ajk/86d2de89f8a9cbce4744a24ad05aa843/180x135c.jpg	https://m.anjuke.com/xa/community/830788/	490户
+陕西省移动通信公司家属院	碑林区	环城南路	环城南路西段49号	1		9442	https://pic1.ajkimg.com/display/ajk/2236d3468ec0618bf7b89a627f143fab/180x135c.jpg	https://m.anjuke.com/xa/community/304170/	858户
+83中家属院	碑林区	长乐坊	爱学路,近东二环路	0	2007年	10779	https://pic1.ajkimg.com/display/ajk/8143b0a59889c681f99f43b5fabcb530/180x135c.jpg	https://m.anjuke.com/xa/community/375842/	108户
+陕西国投家属院	碑林区	东大街	环城东路	8		9911	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266125/	--
+大学南路小学分校家属院	碑林区	体育场	水文巷46号	4		11855	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263191/	--
+交通部第一公路勘察设计院西院	碑林区	东大街	边西街75号	4		9268	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263193/	--
+文北一小区	碑林区	文艺路	文艺北路198号	0		10179	https://pic1.ajkimg.com/display/ajk/74f82d74117a9475c4e6532710e11758/180x135c.jpg	https://m.anjuke.com/xa/community/1062201/	180户
+文艺北路148号院	碑林区	南稍门	文艺北路148号	0		10544	https://pic1.ajkimg.com/display/ajk/2d3483191a1c6616cb8d6da613a356bd/180x135c.jpg	https://m.anjuke.com/xa/community/1062291/	240户
+轩雨公寓	碑林区	环城南路	大学南路	0	2000年	11382	https://pic1.ajkimg.com/display/ajk/3efd4e2ab0848e0dab740a82e6c9cfc3/180x135c.jpg	https://m.anjuke.com/xa/community/274904/	96户
+教会小区	碑林区	东关正街	东新巷24号	0	2001年	9182	https://pic1.ajkimg.com/display/ajk/527fb62dc64d79ef1f109e82a9a2847c/180x135c.jpg	https://m.anjuke.com/xa/community/508548/	343户
+建国五巷8号院	碑林区	南大街	建国五巷8号	0		12635	https://pic1.ajkimg.com/display/ajk/25cc32b61d524a322b4c2b75ee672dd5/180x135c.jpg	https://m.anjuke.com/xa/community/312512/	77户
+东泰城市之光西区	碑林区	东大街	边西街29号	0		20947	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291639/	--
+陕西歌剧院家属院	碑林区	东大街	文艺北路	1		10026	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266133/	--
+新时代国际工程公司住宅小区	碑林区	东大街	雁塔北路95号	3		11540	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263199/	--
+兴庆小区金花坊11号院	碑林区	长乐坊	兴庆东巷	6		9591	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/951751/	--
+开元商住大厦	碑林区	西安交通大学	火炬路	0	2010年	9053	https://pic1.ajkimg.com/display/ajk/e6c8811ed84392f6ca17f730820fb17c/180x135c.jpg	https://m.anjuke.com/xa/community/940183/	130户
+四院家属院	碑林区	环城南路	测绘西路19号	1	2006年	10369	https://pic1.ajkimg.com/display/ajk/0c7f69fab6e4e1764e69b16eb2967a87/180x135c.jpg	https://m.anjuke.com/xa/community/879466/	336户
+186队家属院	碑林区	环城南路	乐南路11号	0	2000年	10319	https://pic1.ajkimg.com/display/ajk/bf1c23b344b45a68beedc5ba1194133f/180x135c.jpg	https://m.anjuke.com/xa/community/879499/	294户
+西安市第一医院家属院	碑林区	环城南路	德福巷29号	0	2015年	9824	https://pic1.ajkimg.com/display/ajk/cf2b783f82b25abe94db4c02058d1857/180x135c.jpg	https://m.anjuke.com/xa/community/830454/	144户
+西安勘察测绘家属院	碑林区	太乙路	太乙路38号	0	2010年	10961	https://pic1.ajkimg.com/display/ajk/11e9aec70239fe724c21cef482b7d663/180x135c.jpg	https://m.anjuke.com/xa/community/481106/	156户
+市教委家属院	碑林区	大差市	东县门2号	0	2001年	10085	https://pic1.ajkimg.com/display/ajk/f88ef10cabcaac67381ef67fb9395108/180x135c.jpg	https://m.anjuke.com/xa/community/830131/	150户
+含光路邮电住宅小区	碑林区	红缨路	含光路北段19号	0	2004年	11430	https://pic1.ajkimg.com/display/ajk/bbfa3e757c6d88eedeea859f9d1d4574/180x135c.jpg	https://m.anjuke.com/xa/community/830457/	306户
+光大新居	碑林区	环城南路	南二环路	0	1998年	10061	https://pic1.ajkimg.com/display/ajk/320b41ca3eb26842992c08a471e36361/180x135c.jpg	https://m.anjuke.com/xa/community/326391/	84户
+建国路省农行家属院	碑林区	东大街	建国五巷57号	2		13157	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266137/	--
+文逸苑	碑林区	环城南路	交大商场街	0		11146	https://pic1.ajkimg.com/display/ajk/709653b096e6c7b45e6f3824315d46fb/180x135c.jpg	https://m.anjuke.com/xa/community/319544/	284户
+疾控中心家属院(碑林)	碑林区	李家村	建东街	3	2004年	14159	https://pic1.ajkimg.com/display/ajk/3992d5eecd54765c2b7125485fc630b1/180x135c.jpg	https://m.anjuke.com/xa/community/657872/	364户
+国税局家属院(碑林)	碑林区	东关南街	东关南街240号	0	1999年	9418	https://pic1.ajkimg.com/display/ajk/85312bd9691c03b2a7ab047aa743ac18/180x135c.jpg	https://m.anjuke.com/xa/community/596338/	168户
+省石油公司家属院	碑林区	东关正街	景龙池2号	0	2005年	9033	https://pic1.ajkimg.com/display/ajk/b07ab0cc8af344a881ab93c957faa9d1/180x135c.jpg	https://m.anjuke.com/xa/community/879461/	294户
+军安商住	碑林区	文艺路	体育馆东路188号	0		12208	https://pic1.ajkimg.com/display/ajk/44b8b1aabc74fa3c0732c5bce5e4fe55/180x135c.jpg	https://m.anjuke.com/xa/community/314103/	137户
+建国五巷59号院	碑林区	南大街	建国五巷59号	1		12575	https://pic1.ajkimg.com/display/ajk/9422f2ee1f472f47209f4bd753283566/180x135c.jpg	https://m.anjuke.com/xa/community/830732/	126户
+计量局家属院	碑林区	西安交通大学	咸宁西路30号	0	1990年	11391	https://pic1.ajkimg.com/display/ajk/a41b07df8c9ce1ca73436b702550e975/180x135c.jpg	https://m.anjuke.com/xa/community/571919/	136户
+燃料公司家属院	碑林区	边家村	边西街	0	2015年	10341	https://pic1.ajkimg.com/display/ajk/7cd6a558057f1a92ea73547cc6a0e29d/180x135c.jpg	https://m.anjuke.com/xa/community/494831/	138户
+边家村工人文化宫家属院	碑林区	广济街	大学南路	2		10942	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1288280/	--
+铁路局后八栋	碑林区	李家村	经九路	1		17915	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1242087/	--
+医药小区(蔡家巷)	碑林区	长乐坊	蔡家巷1号	1	2009年	11079	https://pic1.ajkimg.com/display/ajk/2216f0ca5e3187c1780a49b0a8b99b96/180x135c.jpg	https://m.anjuke.com/xa/community/367748/	236户
+仁义公寓	碑林区	南门	仁义东巷	0	2008年	9525	https://pic1.ajkimg.com/display/ajk/e9ab8e3e38d1410bf850a767acd435ef/180x135c.jpg	https://m.anjuke.com/xa/community/430562/	168户
+陕西艺术职业学院西家属区	碑林区	东大街	建设路226号	1		10198	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266136/	--
+仁义村甲字9号	碑林区	南稍门	文艺北路	0		11191	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1178529/	--
+唐乐宫小区	碑林区	南稍门	长安北路75号	1		12599	https://pic1.ajkimg.com/display/ajk/80a8a787a72989c3ef72f3bb97a51907/180x135c.jpg	https://m.anjuke.com/xa/community/1068984/	224户
+西号巷16号院	碑林区	南大街	西号巷16号	5		9703	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1038908/	--
+中国通信第二公司家属院	碑林区	红缨路	邮电北巷15号	0		9917	https://pic1.ajkimg.com/display/ajk/5a435b411d1da2efbc711e329ab28218/180x135c.jpg	https://m.anjuke.com/xa/community/358306/	440户
+新兴IN之家	碑林区	长乐坊	兴庆路88号	4	2013年	14592	https://pic1.ajkimg.com/display/ajk/8bfa4011dbafaccc00107d9a64fccc1c/180x135c.jpg	https://m.anjuke.com/xa/community/274544/	459户
+开通巷小区	碑林区	东大街	开通巷23号	1	2009年	10197	https://pic1.ajkimg.com/display/ajk/78a3d6541173ec08b6c896362ed0fffc/180x135c.jpg	https://m.anjuke.com/xa/community/313633/	357户
+市公安局治安处家属院	碑林区	太乙路	建东街	1		10624	https://pic1.ajkimg.com/display/ajk/730238bbee7391fea3b0f532d5a829ad/180x135c.jpg	https://m.anjuke.com/xa/community/830128/	84户
+陕西省友谊医院东家属院	碑林区	边家村	友谊西路269号	0	2015年	12223	https://pic1.ajkimg.com/display/ajk/110f72e5344248fd8ff3011b2f914cbf/180x135c.jpg	https://m.anjuke.com/xa/community/830030/	394户
+东大街社区	碑林区	南大街	先锋巷14号	0	2001年	11804	https://pic1.ajkimg.com/display/ajk/ce7a68969ee8befebf4c279fde28d2ab/180x135c.jpg	https://m.anjuke.com/xa/community/315924/	210户
+建国五巷6号院	碑林区	东大街	建国五巷6号	3		12961	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266138/	--
+测绘东路29号院	碑林区	李家村	测绘东路29号	1		9675	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263195/	--
+陕西公路设计院家属院	碑林区	红缨路	含光北路96号	8		8823	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198835/	--
+开成大厦	碑林区	南稍门	长安北路37号	0		11049	https://pic1.ajkimg.com/display/ajk/a90b77eb45b285f8c49a3e284653ef4e/180x135c.jpg	https://m.anjuke.com/xa/community/925724/	320户
+西北电网公司家属院	碑林区	长乐坊	环城东路中段51号	0		12079	https://pic1.ajkimg.com/display/ajk/42efd90a260a1260a91ff692eaf42a47/180x135c.jpg	https://m.anjuke.com/xa/community/499707/	448户
+陕建二公司家属院	碑林区	太乙路	建东街15号	0		9230	https://pic1.ajkimg.com/display/ajk/94fbb6616e6951d33bbc0e555b4329e1/180x135c.jpg	https://m.anjuke.com/xa/community/365504/	204户
+秦浦公寓	碑林区	南稍门	南关正街1号	0	2002年	9767	https://pic1.ajkimg.com/display/ajk/89054902359c326a80f5eafdba31eab4/180x135c.jpg	https://m.anjuke.com/xa/community/515812/	96户
+信合家属院(碑林)	碑林区	红缨路	太白北路	0		9608	https://pic1.ajkimg.com/display/ajk/9139382fd57c4ea8a577e3731cfebc3f/180x135c.jpg	https://m.anjuke.com/xa/community/1062319/	84户
+云龙大厦	碑林区	南大街	端履门46号	7		10084	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1059602/	--
+邮电家属院	碑林区	环城南路	景龙池86号	0	2015年	9171	https://pic1.ajkimg.com/display/ajk/5b37a1c8cc0ea3b82849aae743d9c41e/180x135c.jpg	https://m.anjuke.com/xa/community/342539/	45户
+西安供电局炮房街家属楼	碑林区	东大街	炮房街14号	0		7751	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1305741/	--
+西安交通大学二村	碑林区	李家村	咸宁路	0		8445	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1282549/	--
+广电小区长胜街院区	碑林区	东大街	长胜街36号	1		10143	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266134/	--
+西安市联运总公司家属院	碑林区	李家村	雁塔路中段39号	1		10623	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263198/	--
+省建筑设计院家属院	碑林区	东大街	安东街159号	4		10545	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1241450/	--
+农机局家属院	碑林区	南稍门	红缨路179号	1		9951	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198833/	--
+福园阁	碑林区	广济街	大学东路18号	0	2009年	11524	https://pic1.ajkimg.com/display/ajk/fa903b7834d8e17f8d15c9f69db80d69/180x135c.jpg	https://m.anjuke.com/xa/community/460655/	68户
+东新商住小区	碑林区	环城南路	仁义东巷	0	2008年	12003	https://pic1.ajkimg.com/display/ajk/d8d9991ca2ad69f1f3343e1afedbaa3e/180x135c.jpg	https://m.anjuke.com/xa/community/830182/	42户
+友谊医院东家属院	碑林区	东大街	友谊西路269号	1		11737	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266128/	--
+天然气家属院(碑林)	碑林区	体育场	二环南路中段149号	0		11076	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266129/	--
+热力家属院(碑林)	碑林区	东大街	振兴东巷50号	1		10235	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263205/	--
+仁义村甲子9号	碑林区	南门	仁义路	1		11851	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263202/	--
+西号巷1号院	碑林区	南大街	西号巷1号	2		10350	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1152286/	--
+西安高级中学家属院	碑林区	南大街	端履门121号	2		11275	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1101042/	--
+东新世纪广场	碑林区	西安交通大学	火炬路53号	0		11026	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1055258/	--
+华融国际	碑林区	红缨路	南二环西段21号	0	2003年	7042	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/989995/	--
+黄甫庄小区	碑林区	西安交通大学	交大街	0	2004年	11043	https://pic1.ajkimg.com/display/ajk/478ab332dae0406be495ccb781d92e1e/180x135c.jpg	https://m.anjuke.com/xa/community/879481/	84户
+西安日报社家属院	碑林区	何家村	劳卫路25号	1	1999年	9664	https://pic1.ajkimg.com/display/ajk/ac38338bd2a2b6e2e731ae5e74918851/180x135c.jpg	https://m.anjuke.com/xa/community/309394/	556户
+农行陕西省分行东关家属院	碑林区	长乐坊	伍道十字南街37号	1		9016	https://pic1.ajkimg.com/display/ajk/5cf5bf081c87b53a370a0805eb94709b/180x135c.jpg	https://m.anjuke.com/xa/community/322578/	28户
+审计署家属院	碑林区	东大街	朱雀大街48号	0		12774	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291614/	--
+财政局家属楼(碑林区)	碑林区	东大街	南大街23号	0		13067	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1268621/	--
+伞塔路体校家属院	碑林区	大差市	伞塔路6号	0		7967	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263189/	--
+长乐坊街道孟家巷社区	碑林区	东大街	北郭门89号	0		7550	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1245101/	--
+西安供电局孟家巷家属楼	碑林区	东大街	北郭门	4		8788	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1241474/	--
+农办家属院	碑林区	李家村	建设西路21号	2		9932	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198836/	--
+物资佳苑	碑林区	南稍门	四民巷27号	0		12307	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198829/	--
+安东街省建南五院	碑林区	李家村	太安街	0		10843	https://pic1.ajkimg.com/display/ajk/b95945515e501e1a27b69ae60f72da86/180x135c.jpg	https://m.anjuke.com/xa/community/1171659/	--
+湘子庙街54号小区	碑林区	南大街	湘子庙街54号	0		14529	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1162717/	--
+东昇大厦	碑林区	李家村	文艺北路188号	10		12660	https://pic1.ajkimg.com/display/ajk/379072690905035a88eee93a6d95524b/180x135c.jpg	https://m.anjuke.com/xa/community/1061048/	187户
+兴庆路家属院	碑林区	大差市	兴庆路	2		8852	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291797/	--
+陕西历史博物馆家属院	碑林区	东大街	文艺南路160号	0		9000	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291031/	--
+西安医学院含光路校区教师公寓	碑林区	体育场	含光北路74号	0		12076	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1283107/	--
+铁路小区(碑林)	碑林区	李家村	铁安一街	1		19409	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266141/	--
+明胜街46号院	碑林区	东大街	明胜街46号	2		10816	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266135/	--
+秦埔公寓	碑林区	东大街	南关正街1号	1		10008	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266140/	--
+和平门生活区	碑林区	东大街	安西街100号	0		10751	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266131/	--
+永宁小区56号家属院	碑林区	东大街	物资路26号	0		10785	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263206/	--
+中煤科工西安院碑林小区	碑林区	东大街	建西街6号	0		8775	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1241486/	--
+交通医院家属院	碑林区	西工大	大学南路326号	1		9900	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1174830/	--
+中铁物资集团西北公司家属院	碑林区	李家村	友谊东路150号	2		12391	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1157005/	--
+陕建一建集团和平门小区一院	碑林区	李家村	建东街39号	0		10569	https://pic1.ajkimg.com/display/ajk/c0674aef0af735caa6f8fba43352fcd7/180x135c.jpg	https://m.anjuke.com/xa/community/1061701/	492户
+档案局家属院	碑林区	南大街	建国五巷57号	0	2009年	14634	https://pic1.ajkimg.com/display/ajk/22f874acbbb549fe79a9cd061b2f3bde/180x135c.jpg	https://m.anjuke.com/xa/community/407830/	36户
+西安工业大学西家属院	碑林区	大差市	伞塔路46号	0		7906	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1290677/	--
+市政一公司家属院	碑林区	东大街	长胜街113号	0		10533	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1285490/	--
+长乐坊138号院	碑林区	东大街	北火巷	0		9918	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1281470/	--
+西安市环境监察大队小区	碑林区	东大街	大学东路4号	0		10902	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1280766/	--
+景龙池6号院	碑林区	大差市	窦府巷	0		9102	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1280755/	--
+卧龙巷60号院	碑林区	东大街	卧龙巷60号	0		9158	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1276474/	--
+南郭北路3号院	碑林区	东大街	体育馆南路	0		10645	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266139/	--
+中国通信建设第二工程局北院住宅区	碑林区	东大街	邮电北巷15号	0		10783	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263717/	--
+陕西省商务厅家属院(碑林)	碑林区	东大街	体育路36号	0		10180	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263203/	--
+环城南路西段48号院	碑林区	东大街	环城南路西段48号	0		10656	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263204/	--
+四府街51号院	碑林区	东大街	四府街51号	0		8503	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263201/	--
+红缨路117号楼	碑林区	东大街	红缨路117号	0		9419	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263192/	--
+西安市建二公司建东街住宅楼	碑林区	东大街	建东街15号	0		10017	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1245108/	--
+西部建筑抗震勘察设计研究院家属院	碑林区	东大街	建东街153号	1		10882	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1241448/	--
+长线局家属院	碑林区	南稍门	友谊西路	0		10628	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198830/	--
+建材家苑	碑林区	南大街	西六道巷2号	0		10153	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198822/	--
+陕西省轻工业研究设计院家属院	碑林区	西安交通大学	金水路6号	0		11919	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1152801/	--
+市级机关大车家巷横巷住宅小区	碑林区	南大街	大车家巷横巷11-14号	0		13068	https://pic1.ajkimg.com/display/ajk/60b1e8a4b91676311ad5556acac5f3e0/180x135c.jpg	https://m.anjuke.com/xa/community/1062209/	108户
+芦荡巷信息中心家属院	碑林区	南大街	芦荡巷9号	1		8537	https://pic1.ajkimg.com/display/ajk/f689d045f4eb39eaa1ad06b621cd1aed/180x135c.jpg	https://m.anjuke.com/xa/community/1062282/	24户
+西安交通征稽家属院	碑林区	西安交通大学	咸宁西路3号	0		8800	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1311135/	--
+南柳巷13号院	碑林区	东大街	南柳巷13号	0		8000	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1305668/	--
+邮政家属院	碑林区	体育场	二环南路东段543号	0		9000	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1298853/	--
+市建二公司家属院	碑林区	东大街	太乙路	0		8500	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1295175/	--
+西安建工第五建筑集团有限公司家属院	碑林区	体育场	光大路	0		10190	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1292082/	--
+西安市建五公司家属院	碑林区	东大街	北火巷	0		9000	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291801/	--
+端履门小区	碑林区	东大街	东厅门	0		12096	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291800/	--
+东六道巷10号院	碑林区	东大街	东六道巷	0		11066	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291629/	--
+国家林业局西北规划设计院家属院	碑林区	互助路立交	唯实路	0		8400	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291635/	--
+省电研院家属院	碑林区	东大街	测绘西路	0		11388	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291637/	--
+劳保公司家属院	碑林区	东大街	开通巷4号	0		7000	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1290666/	--
+物资公司职工住宅楼	碑林区	东大街	四民巷20号	0		8800	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1291032/	--
+西安市第一市政工程公司第三分公司家属院	碑林区	互助路立交	金花北路	0		7800	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1289347/	--
+塑料三厂家属院	碑林区	体育场	二环南路	0		7000	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1288574/	--
+铁安花园	碑林区	李家村	二环南路	0		12000	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1287325/	--
+文艺北路58号院	碑林区	东大街	文艺北路58号	0		8997	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1283101/	--
+新庆村	碑林区	大差市	新庆巷	0		7800	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1282546/	--
+省人艺家属院	碑林区	东大街	建西街	0		8767	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1280753/	--
+陕建十一建集团边西街小区	碑林区	东大街	大学南路	0		9467	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1280757/	--
+红光巷15号大院	碑林区	东大街	环城东路	0		7932	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1278515/	--
+西安海关含光路办公区家属院	碑林区	体育场	含光北路10号	0		8216	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1278521/	--
+陕西省石化厅家属院	碑林区	李家村	经九路5号	0		9983	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266142/	--
+陕西省城乡规划设计研究院家属院	碑林区	互助路立交	金花北路8号	0		9038	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266127/	--
+物资再生公司家属院	碑林区	东大街	东关正街28号	0		9648	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266126/	--
+陕西省戏剧研究院家属院	碑林区	东大街	南关正街24号	0		9816	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1266132/	--
+纺织局院	碑林区	东大街	环城南路西段43号	0		13565	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1265407/	--
+西安光机所北生活区	碑林区	体育场	友谊西路337号	0		10909	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263207/	--
+中煤物资公司家属院	碑林区	东大街	友谊东路268号	0		10151	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263200/	--
+明胜街56号院	碑林区	东大街	明胜街56号	0		10079	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263197/	--
+西安市拖拉机制造厂家属院	碑林区	大差市	东新巷1212号	0		9900	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263190/	--
+明胜街52号院	碑林区	东大街	明胜街52号	0		10291	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263196/	--
+盛安广场	碑林区	东大街	含光北路111号	0		11167	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263194/	--
+云锦苑小区	碑林区	东大街	咸宁西路45号	0		10664	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1263188/	--
+陕西省戏剧研究院家属院小区	碑林区	东大街	南关正街	0		10969	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1261791/	--
+新文巷小区	碑林区	东大街	新文巷17号	0		12222	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1245111/	--
+省出版社小区	碑林区	东大街	西木头市49号	0		11500	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1241442/	--
+教育厅家属院	碑林区	红缨路	含光路42号	1		12096	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198834/	--
+邮票公司家属院	碑林区	南稍门	友谊西路155号	0		9701	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198831/	--
+和谐家园	碑林区	西安交通大学	友谊东路110号	0		9783	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198838/	--
+煤田地质局一八六队家属院	碑林区	西安交通大学	太乙路279号	0		12500	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198837/	--
+铁安街社区	碑林区	西安交通大学	友谊东路32号	0		12288	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198839/	--
+散办家属楼	碑林区	长乐坊	金花北路126号	0		7932	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198826/	--
+丝绸二厂家属院	碑林区	长乐坊	东关索罗巷32号	0		9330	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198825/	--
+服务公司家属院	碑林区	南稍门	振兴路37号	0		9615	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198828/	--
+陕旅汽车家属院	碑林区	南稍门	长安北路40号附8号	0		11463	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198827/	--
+蝴蝶手表厂西木头市41号家属院	碑林区	南大街	西木头市	0		11162	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198821/	--
+瑞丽公寓	碑林区	南大街	菊花园1号	0		9067	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198824/	--
+西安市政管理处家属院	碑林区	南大街	东七道巷2号	0		10112	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198823/	--
+轻工业研究设计院家属院	碑林区	西安交通大学	金水路2号	0		11886	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1198870/	--
+金牛锅炉大厦	碑林区	红缨路	朱雀大街38号	0		17503	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1175518/	--
+西二三道巷小区	碑林区	南大街	西二道巷2号	0		8283	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1165768/	--
+信义巷25号小区	碑林区	南大街	信义巷25号	0		12037	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1161713/	--
+圪塔寺工行家属院	碑林区	南大街	圪塔寺街8号	0		11051	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1160553/	--
+中国农业工程勘察设计院	碑林区	西工大	太白北路95号	0		10232	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1152289/	--
+中科创星万科云众创社区	碑林区	西工大	友谊西路322号	0		10000	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1088827/	--
+乐居场小区A3区	碑林区	西安交通大学	建东街东段3号	0		12924	https://pic1.ajkimg.com/display/ajk/c27c44676880e88cac6ca2e22b2824e1/180x135c.jpg	https://m.anjuke.com/xa/community/1063200/	2002户
+冶金家属院(碑林)	碑林区	南大街	振兴路	0		9776	https://pic1.ajkimg.com/display/ajk/62d0bfd16b8c46653afdc189de0e45f2/180x135c.jpg	https://m.anjuke.com/xa/community/1062232/	48户
+饮马池50号院	碑林区	南大街	饮马池50号	0	1978年	6000	https://pic1.ajkimg.com/display/ajk/d559029dafc73194e5430a20f3007c55/180x135c.jpg	https://m.anjuke.com/xa/community/1062231/	50户
+中柳巷1号家属院	碑林区	南大街	中柳巷1号	0		9916	https://pic1.ajkimg.com/display/ajk/b6293fc9ff63949a1b40defae391404a/180x135c.jpg	https://m.anjuke.com/xa/community/1062230/	80户
+李家分村社区	碑林区	李家村	测绘西路49号	0		9693	https://pic1.ajkimg.com/display/ajk/f19077314d18f6df415e6925879435ac/180x135c.jpg	https://m.anjuke.com/xa/community/1062210/	78户
+西安三建咸宁西路家属院	碑林区	长乐坊	咸宁西路46号	0		11600	https://pic1.ajkimg.com/display/ajk/1631ee8d3ce480aaf3e878e758916636/180x135c.jpg	https://m.anjuke.com/xa/community/1062200/	80户
+中柳巷2号家属院	碑林区	南大街	中柳巷2号	0		9444	https://pic1.ajkimg.com/display/ajk/f49dacbde9ca045f82e36c46c1616929/180x135c.jpg	https://m.anjuke.com/xa/community/1062225/	36户
+中柳巷3号家属院	碑林区	南大街	中柳巷3号	0		9577	https://pic1.ajkimg.com/display/ajk/535452d8c8ad5db7f866a4a5ab33d38f/180x135c.jpg	https://m.anjuke.com/xa/community/1062224/	112户
+南郭路159号院	碑林区	南稍门	南郭路159号	0		8383	https://pic1.ajkimg.com/display/ajk/e3fe0bba3298c9e8859136635b3b0905/180x135c.jpg	https://m.anjuke.com/xa/community/1062277/	30户
+南郭路153号院	碑林区	南稍门	南郭路153号	0		11221	https://pic1.ajkimg.com/display/ajk/1e9fcbac725b20117bee69c61245f976/180x135c.jpg	https://m.anjuke.com/xa/community/1062280/	30户
+南郭路155号院	碑林区	南稍门	南郭路155号	0		8383	https://pic1.ajkimg.com/display/ajk/870de5373247c80e07bb6fe5d6413021/180x135c.jpg	https://m.anjuke.com/xa/community/1062279/	30户
+南郭路157号院	碑林区	南稍门	南郭路157号	0		8383	https://pic1.ajkimg.com/display/ajk/cefe5b8426b4e009bba0913d70e85612/180x135c.jpg	https://m.anjuke.com/xa/community/1062278/	30户
+体育馆东路17号院	碑林区	南稍门	体育馆东路17号	0		9595	https://pic1.ajkimg.com/display/ajk/5dbcc695992e7eac5f737221a5f5e0f2/180x135c.jpg	https://m.anjuke.com/xa/community/1062294/	30户
+敬业大厦	碑林区	李家村	文艺北路171号	0		10447	https://pic1.ajkimg.com/display/ajk/f8905b948aa54a90ffa9869774e076ac/180x135c.jpg	https://m.anjuke.com/xa/community/1061691/	580户
+鸿翔大厦	碑林区	长乐坊	兴庆路	0		10416	https://pic1.ajkimg.com/display/ajk/db4462e73fb8efcc320f74c6c1b9758e/180x135c.jpg	https://m.anjuke.com/xa/community/1062244/	98户
+就业局家属院	碑林区	长乐坊	咸宁西路	0	2009年	7283	https://pic1.ajkimg.com/display/ajk/e7e4cf7d3761f926b2f229679793e2bb/180x135c.jpg	https://m.anjuke.com/xa/community/1062248/	36户
+陕建三建集团1号楼	碑林区	长乐坊	建东街68号	0		10482	https://pic1.ajkimg.com/display/ajk/8e4af87565f51cfedaa77b84ecd9c280/180x135c.jpg	https://m.anjuke.com/xa/community/1062236/	50户
+西安市第一保育院家属院	碑林区	南大街	长胜街62号	0		10851	https://pic1.ajkimg.com/display/ajk/14d270e01c50153eb99f32db3ff97e9c/180x135c.jpg	https://m.anjuke.com/xa/community/1062234/	78户
+东木头市144号家属院	碑林区	南大街	东木头144号	0		9000	https://pic1.ajkimg.com/display/ajk/97e3ecedb74965081701054a61c62811/180x135c.jpg	https://m.anjuke.com/xa/community/1062239/	70户
+未来出版社家属院	碑林区	南大街	东木头市190号	0		10606	https://pic1.ajkimg.com/display/ajk/9e0d2a44bdf55521be231d44e8b5a15e/180x135c.jpg	https://m.anjuke.com/xa/community/1062261/	42户
+东五道巷小区	碑林区	南大街	东五道巷1号	0		12195	https://pic1.ajkimg.com/display/ajk/08a4367dd21515c9ebf696a288c1bee8/180x135c.jpg	https://m.anjuke.com/xa/community/1062260/	56户
+大车家巷44号院	碑林区	南大街	大车家巷	0		10483	https://pic1.ajkimg.com/display/ajk/8bb54d5ee156ad80a5e9ebb5421830f2/180x135c.jpg	https://m.anjuke.com/xa/community/1062263/	23户
+文艺北路76号院	碑林区	南稍门	文艺北路76号	0		9117	https://pic1.ajkimg.com/display/ajk/3d86e28bf99c11931f2c14f15c93eea4/180x135c.jpg	https://m.anjuke.com/xa/community/1062253/	40户
+鹏博大厦	碑林区	李家村	雁塔中路19号	0		17016	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1048445/	--
+社学巷小区	碑林区	南大街	东厅门63号	0		11515	https://pic1.ajkimg.com/display/ajk/c0eda7df2ef2dc3b86629e887be1fe36/180x135c.jpg	https://m.anjuke.com/xa/community/1045945/	210户
+旅游局家属院	碑林区	南稍门	长安北路15号	0		13313	https://pic1.ajkimg.com/display/ajk/f46c2457d7b6fa773729e87316ecca8d/180x135c.jpg	https://m.anjuke.com/xa/community/1045944/	84户
+陕西国际会展大厦	碑林区	南稍门	长安北路1号	0		9641	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1042264/	--
+西北有色地质勘查局家属院	碑林区	红缨路	雁塔中路78号	0		11282	https://pic1.ajkimg.com/display/ajk/e9f19b147075d5d350f28dc85f2cd7b2/180x135c.jpg	https://m.anjuke.com/xa/community/1040534/	732户
+旅游汽车公司家属院	碑林区	南稍门	长安北路34号	0		13126	https://pic1.ajkimg.com/display/ajk/662c6b897d0de062f2f21267a0f05437/180x135c.jpg	https://m.anjuke.com/xa/community/1033855/	126户
+碑林区城市管理局家属院	碑林区	李家村	测绘西路95号	0		9056	https://pic1.ajkimg.com/display/ajk/6d3e9c7d3779d342dcf0e1a16ebd23b1/180x135c.jpg	https://m.anjuke.com/xa/community/1033646/	48户
+长乐嘉韵	碑林区	长乐坊	环城东路,近伍道十字西街	0		12138	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/1027787/	167户
+端里门	碑林区	南大街	东大街,近端履门	0		11730	https://pic1.ajkimg.com/display/ajk/c2c04f5e5e6a4fc95ee18d094b8f3a95/180x135c.jpg	https://m.anjuke.com/xa/community/1024391/	1058户
+文艺小区2号综合楼	碑林区	李家村	文艺路188号	0		14197	https://pic1.ajkimg.com/display/ajk/c795e3600a93967d77459e2118f04c92/180x135c.jpg	https://m.anjuke.com/xa/community/1006889/	187户
+帝源豪庭大厦	碑林区	西安交通大学	交大街2号	0		8000	https://pic1.ajkimg.com/display/ajk/e6a961effad9b7054af9bc9adac4c57c/180x135c.jpg	https://m.anjuke.com/xa/community/995912/	324户
+长鑫大厦	碑林区	南稍门	南关正街95号	0	2006年	9596	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/951946/	--
+西工大西湖小区	碑林区	西工大	友谊西路127号	0		10666	https://pic1.ajkimg.com/display/ajk/f4b77b149714ed884ac6b1e7ad167fa9/180x135c.jpg	https://m.anjuke.com/xa/community/951701/	176户
+乐府国际公寓	碑林区	李家村	文艺北路165号	0	2011年	13762	https://pic1.ajkimg.com/display/ajk/06a7d3f8d7712253b23331a2ef2fe85c/180x135c.jpg	https://m.anjuke.com/xa/community/952010/	521户
+大湘子庙街3号院	碑林区	南大街	湘子庙街3号	1		11699	https://pic1.ajkimg.com/display/ajk/ce1f747c44e1d592a42c1fe7df49f2af/180x135c.jpg	https://m.anjuke.com/xa/community/951880/	124户
+电信家属院	碑林区	红缨路	含光路中段29号	0	2005年	11607	https://pic1.ajkimg.com/display/ajk/a00f5b08f4539d63ffa6bbcf12a4b90a/180x135c.jpg	https://m.anjuke.com/xa/community/951881/	68户
+嘉美大厦	碑林区	红缨路	友谊西路166号	0	2005年	12152	https://pic1.ajkimg.com/display/ajk/e79cafe81cc647607a3f2ca252af97f4/180x135c.jpg	https://m.anjuke.com/xa/community/946460/	137户
+秦晋商务大厦	碑林区	西安交通大学	乐南路47号	0	2005年	8000	https://pic1.ajkimg.com/display/ajk/001c460dc748680cfd68b178ffc00a5d/180x135c.jpg	https://m.anjuke.com/xa/community/925725/	198户
+铭爵大厦	碑林区	长乐坊	更新街13号	0	2007年	9055	https://pic1.ajkimg.com/display/ajk/37b113533e64656e1d29ce483dd86b62/180x135c.jpg	https://m.anjuke.com/xa/community/913082/	--
+轻工设计院家属院	碑林区	和平路	东关正街	0	2003年	8285	https://pic1.ajkimg.com/display/ajk/6edcd460c3368f673bfc9d1b64d549bb/180x135c.jpg	https://m.anjuke.com/xa/community/879455/	84户
+太乙路小区	碑林区	西安交通大学	太乙路	0		12857	https://pic1.ajkimg.com/display/ajk/3106b855b37a853d23605d9c109f3dbc/180x135c.jpg	https://m.anjuke.com/xa/community/426823/	408户
+中铁一局集团李家村东院住宅区	碑林区	太乙路	雁塔北路	0	2015年	17021	https://pic1.ajkimg.com/display/ajk/e2b13b19758065960a4ac1093ce28cdc/180x135c.jpg	https://m.anjuke.com/xa/community/657456/	236户
+政治学院家属院	碑林区	小雁塔	朱雀大街北段19号	0		10067	https://pic1.ajkimg.com/display/ajk/fb5ad017a62d49aa1bbcc05448ca2df3/180x135c.jpg	https://m.anjuke.com/xa/community/409097/	576户
+中国通信建设第二工程局家属东院	碑林区	红缨路	红缨路149号	0	2015年	10000	https://pic1.ajkimg.com/display/ajk/4af4771a7492a5ed71986e3b6d1fe047/180x135c.jpg	https://m.anjuke.com/xa/community/831179/	164户
+紫荆苑	碑林区	和平路	长胜街7号	0	2004年	9576	https://pic1.ajkimg.com/display/ajk/b202cd4c66ce48841fde556850e988d1/180x135c.jpg	https://m.anjuke.com/xa/community/274469/	150户
+长乐村	碑林区	南大街	和平路	0	2008年	11111	https://pic1.ajkimg.com/display/ajk/3a56d013ddb5814d714a91d27ff33baf/180x135c.jpg	https://m.anjuke.com/xa/community/831092/	170户
+紫晶大厦	碑林区	文艺路	友谊东路436号	0	2011年	11500	https://pic1.ajkimg.com/display/ajk/4bd232b3f925d8abbbef9c939090d371/180x135c.jpg	https://m.anjuke.com/xa/community/580024/	54户
+御览长安	碑林区	环城南路	环城南路	0	2012年	9467	https://pic1.ajkimg.com/display/ajk/9a45705d6f92029ce656cc8bf7651dac/180x135c.jpg	https://m.anjuke.com/xa/community/398458/	226户
+永乐大厦	碑林区	长乐坊	永乐路	0		8636	https://pic1.ajkimg.com/display/ajk/26d66bb0ff6a2b1e1c7110d911705efd/180x135c.jpg	https://m.anjuke.com/xa/community/830951/	168户
+永宁国际	碑林区	环城南路	永宁路	0	2009年	11046	https://pic1.ajkimg.com/display/ajk/7eeb11989cce03d6ca5bab31ea11c2e6/180x135c.jpg	https://m.anjuke.com/xa/community/830957/	500户
+永宁馨园	碑林区	环城南路	南关正街8号	0	2008年	9076	https://pic1.ajkimg.com/display/ajk/9fca6c2f5eb5369321eb0dd930486e0c/180x135c.jpg	https://m.anjuke.com/xa/community/274674/	40户
+义海国际	碑林区	南大街	和平路	0	2014年	8925	https://pic1.ajkimg.com/display/ajk/6e64057e88fcf251c878bc8a85a033da/180x135c.jpg	https://m.anjuke.com/xa/community/766476/	15户
+艺品华庭	碑林区	东大街	体育馆东路188号	0		12000	https://pic1.ajkimg.com/display/ajk/6c7e78428969638d5738e610945c46d9/180x135c.jpg	https://m.anjuke.com/xa/community/274400/	120户
+长安信息家属院	碑林区	文艺路	乐居场路	0	1998年	9136	https://pic1.ajkimg.com/display/ajk/3d3035141079e85b3a9a9dda7c455e36/180x135c.jpg	https://m.anjuke.com/xa/community/372157/	144户
+邮政局家属院	碑林区	长乐坊	南牌楼巷	0	2015年	10422	https://pic1.ajkimg.com/display/ajk/9f97f54c939d5332663fc237d12a3d4a/180x135c.jpg	https://m.anjuke.com/xa/community/299101/	114户
+云锦兴庆苑	碑林区	东关南街	咸宁西路	0	2008年	10526	https://pic1.ajkimg.com/display/ajk/e2994549a5daff700ba567c89342109c/180x135c.jpg	https://m.anjuke.com/xa/community/274700/	336户
+银诚大厦	碑林区	红缨路	含光北路中段46号	0		7325	https://pic1.ajkimg.com/display/ajk/cd779209b25a58a243249626018dfd40/180x135c.jpg	https://m.anjuke.com/xa/community/330346/	136户
+一印家属院(标新街)	碑林区	李家村	标新街9号	0		10796	https://pic1.ajkimg.com/display/ajk/383d7cef976900cb208b660e2983a71b/180x135c.jpg	https://m.anjuke.com/xa/community/380358/	216户
+煤航公寓	碑林区	文艺路	长胜街49号	0	1998年	11066	https://pic1.ajkimg.com/display/ajk/4cfd528162ddd287bc4d4135a62f8362/180x135c.jpg	https://m.anjuke.com/xa/community/313600/	16户
+兴庆社区	碑林区	环城南路	互助路,近兴庆路	0	2015年	8666	https://pic1.ajkimg.com/display/ajk/38c17a924e555421b1b334ddea5c30b9/180x135c.jpg	https://m.anjuke.com/xa/community/830795/	308户
+六三一研究所生活区	碑林区	西工大	友谊西路391号	0		11417	https://pic1.ajkimg.com/display/ajk/c230a86484a33cdbe573aa05770c198b/180x135c.jpg	https://m.anjuke.com/xa/community/830991/	1020户
+丽都名园	碑林区	南门	东木头市99号	0	2009年	11587	https://pic1.ajkimg.com/display/ajk/54311df59a400e6a65c187fb21818513/180x135c.jpg	https://m.anjuke.com/xa/community/830943/	64户
+馨雅园	碑林区	太乙路	金水路18号	0	2013年	18161	https://pic1.ajkimg.com/display/ajk/58ffb01dddbf8cb01b7644f80c74cacf/180x135c.jpg	https://m.anjuke.com/xa/community/410908/	406户
+小雁塔干休所	碑林区	南稍门	红缨路	0		9508	https://pic1.ajkimg.com/display/ajk/d7e5cfad6712e36390ca2f0d94feb366/180x135c.jpg	https://m.anjuke.com/xa/community/830721/	177户
+晶筑逸品	碑林区	环城南路	水文巷88号	0	2013年	11702	https://pic1.ajkimg.com/display/ajk/8ce7d198d13de5c35134010ea1020783/180x135c.jpg	https://m.anjuke.com/xa/community/303091/	570户
+翔园新居	碑林区	大学南路	红缨路96号	0	2010年	9945	https://pic1.ajkimg.com/display/ajk/52a0b12894c45215305ed2973fd437f1/180x135c.jpg	https://m.anjuke.com/xa/community/304029/	580户
+小雁塔苗圃家属院	碑林区	体育场	体育北路2号	0	2000年	12222	https://pic1.ajkimg.com/display/ajk/84bd0321085b0cec3d84fe3a226e4c5e/180x135c.jpg	https://m.anjuke.com/xa/community/415143/	92户
+科技局小区	碑林区	南稍门	振兴路110号	0	2006年	9000	https://pic1.ajkimg.com/display/ajk/7867a6fe224938a75c56d41716e6bff6/180x135c.jpg	https://m.anjuke.com/xa/community/317592/	110户
+乐嘉阁	碑林区	长乐坊	东关正街78号	0	2004年	7606	https://pic1.ajkimg.com/display/ajk/713b0824690f7ea2b1dd596e16fb646d/180x135c.jpg	https://m.anjuke.com/xa/community/409220/	132户
+居仁苑	碑林区	环城南路	东关正街129号	0	2009年	9583	https://pic1.ajkimg.com/display/ajk/9f0e5ec4edf75619d982c616f696eb23/180x135c.jpg	https://m.anjuke.com/xa/community/830869/	126户
+西铁局高层小区	碑林区	西安交通大学	友谊东路33号	0		17784	https://pic1.ajkimg.com/display/ajk/0bf2947207149998085c69fd9bfd5013/180x135c.jpg	https://m.anjuke.com/xa/community/830639/	1160户
+乐居场小区A2区	碑林区	西安交通大学	太乙路	0	2003年	8956	https://pic1.ajkimg.com/display/ajk/b56625543b92ebe13384feec4283328b/180x135c.jpg	https://m.anjuke.com/xa/community/830926/	396户
+菊苑公寓	碑林区	东关正街	马厂子40号	0		9895	https://pic1.ajkimg.com/display/ajk/2cf3249af30b0548063cf47b30b2e5b7/180x135c.jpg	https://m.anjuke.com/xa/community/830870/	90户
+经九路社区	碑林区	太乙路	经九路9号	0	2015年	9753	https://pic1.ajkimg.com/display/ajk/a0c837aa4f2b677225d36c6b6453997c/180x135c.jpg	https://m.anjuke.com/xa/community/830843/	180户
+西荷安置楼	碑林区	太白立交	南二环	0	2000年	8730	https://pic1.ajkimg.com/display/ajk/004ddecfa2a08690f842acf9a53200f0/180x135c.jpg	https://m.anjuke.com/xa/community/576475/	60户
+西荷丰润国际公寓	碑林区	何家村	太白北路6号	0	2012年	13611	https://pic1.ajkimg.com/display/ajk/901c169b7be2dc943002da2b4efc0a8b/180x135c.jpg	https://m.anjuke.com/xa/community/379179/	288户
+消防总队家属院	碑林区	西安交通大学	二环南路东段23号	0	2004年	10000	https://pic1.ajkimg.com/display/ajk/3bae44e92892b1ede18dda907280ec8c/180x135c.jpg	https://m.anjuke.com/xa/community/830716/	56户
+抗震家属院	碑林区	南大街	建东街	0		7967	https://pic1.ajkimg.com/display/ajk/b2d3725e441fa576a1b8f3e6082622a8/180x135c.jpg	https://m.anjuke.com/xa/community/830897/	126户
+君怡家园	碑林区	友谊东路	友谊东路172号	0	2009年	17794	https://pic1.ajkimg.com/display/ajk/39ef4de27a1868f74f7b270ebbc5c602/180x135c.jpg	https://m.anjuke.com/xa/community/274250/	224户
+西安体育学院家属院	碑林区	体育场	体育场北路68号	0	1998年	12919	https://pic1.ajkimg.com/display/ajk/032e1f4796bafa4157d2918d450eebc9/180x135c.jpg	https://m.anjuke.com/xa/community/830489/	368户
+京都苑小区	碑林区	南稍门	围墙巷41号	0		10275	https://pic1.ajkimg.com/display/ajk/77725abf9a174127991556ae8dd92880/180x135c.jpg	https://m.anjuke.com/xa/community/317134/	112户
+金源雅居	碑林区	长乐坊	更新街73号	0	2015年	8183	https://pic1.ajkimg.com/display/ajk/c9c7fdcb406e8cd06e13e09875c7daac/180x135c.jpg	https://m.anjuke.com/xa/community/304035/	204户
+交通大学一村	碑林区	西安交通大学	兴庆路	0		8593	https://pic1.ajkimg.com/display/ajk/407e4b3154524aef0d230b2a0e1eedc1/180x135c.jpg	https://m.anjuke.com/xa/community/309508/	2834户
+西大新村	碑林区	西工大	太白北路312号	0	1997年	12261	https://pic1.ajkimg.com/display/ajk/34d47f9066c183ff595a192f8018f989/180x135c.jpg	https://m.anjuke.com/xa/community/311156/	1162户
+西工大家属院	碑林区	西工大	友谊西路	0	2015年	13500	https://pic1.ajkimg.com/display/ajk/c542ad3b927021258d3efe1d48b25e6a/180x135c.jpg	https://m.anjuke.com/xa/community/311159/	2734户
+建东街小区	碑林区	西安交通大学	建东街1R号	0	1990年	9289	https://pic1.ajkimg.com/display/ajk/3384040015d912b0633d16dd627bfdc3/180x135c.jpg	https://m.anjuke.com/xa/community/303248/	96户
+教师新村	碑林区	西安交通大学	乐居南路2号	0	2000年	6117	https://pic1.ajkimg.com/display/ajk/51d05c15072978840a45d53b8f4fa39c/180x135c.jpg	https://m.anjuke.com/xa/community/830755/	120户
+教委家属院(南大街)	碑林区	南稍门	围墙巷	0	2001年	9387	https://pic1.ajkimg.com/display/ajk/668e07aff4eae7e0616a7e30d1004ab4/180x135c.jpg	https://m.anjuke.com/xa/community/830757/	504户
+西安市公安局马坊门家属院	碑林区	环城南路	马坊门6号	0	2015年	12359	https://pic1.ajkimg.com/display/ajk/b050f0ea6fec3d6c48f9e88e11a0e0d1/180x135c.jpg	https://m.anjuke.com/xa/community/830459/	122户
+交大二村	碑林区	西安交通大学	交大街	0	2007年	9411	https://pic1.ajkimg.com/display/ajk/4e3056b89d0c487a27c6da08982784c1/180x135c.jpg	https://m.anjuke.com/xa/community/318906/	2396户
+西安市碑林区永新小学家属院	碑林区	长乐坊	伍道什字东街82号副1号	0		10181	https://pic1.ajkimg.com/display/ajk/dc6862b1aa32bc4e21dc7e628457a8c9/180x135c.jpg	https://m.anjuke.com/xa/community/830438/	48户
+甲壳虫公寓	碑林区	边家村	含光北路160号	0	2011年	11642	https://pic1.ajkimg.com/display/ajk/49dc9cf4368304a485d3fc5e5b4f729a/180x135c.jpg	https://m.anjuke.com/xa/community/320257/	240户
+卫生广厦	碑林区	李家村	建东街	0	2015年	11689	https://pic1.ajkimg.com/display/ajk/8c911e94ec815163b2c3660a3cad0c4c/180x135c.jpg	https://m.anjuke.com/xa/community/315632/	12户
+环境监测家属院	碑林区	南门	文艺南路186号	0		10214	https://pic1.ajkimg.com/display/ajk/07295a2847ef189397384ffc1ed030f5/180x135c.jpg	https://m.anjuke.com/xa/community/576575/	24户
+环南路社区	碑林区	太乙路	环城南路中段60号	0	2015年	9090	https://pic1.ajkimg.com/display/ajk/c1a58e145c7ce9c8dc693b709995bed3/180x135c.jpg	https://m.anjuke.com/xa/community/296582/	45户
+万庆巷住宅小区	碑林区	长乐坊	万庆巷	0		9642	https://pic1.ajkimg.com/display/ajk/6686c0a2d621a1038eae6cc1edd74adc/180x135c.jpg	https://m.anjuke.com/xa/community/308432/	288户
+皇廷南院	碑林区	文艺路	环城南路	0	2012年	7074	https://pic1.ajkimg.com/display/ajk/dbf20c5c396ce8e822732a07d3d82b22/180x135c.jpg	https://m.anjuke.com/xa/community/398684/	72户
+际华东苑	碑林区	环城南路	新文巷7号	0	2010年	11333	https://pic1.ajkimg.com/display/ajk/a5595b5a24abcd1936ecf2ebcc8e0673/180x135c.jpg	https://m.anjuke.com/xa/community/318382/	208户
+望城国际公馆	碑林区	文艺路	文艺北路14号	0	2013年	8823	https://pic1.ajkimg.com/display/ajk/9fabd9d13de530a79827275b63e88b91/180x135c.jpg	https://m.anjuke.com/xa/community/506956/	353户
+祭台小区	碑林区	李家村	太乙路1号	0		9859	https://pic1.ajkimg.com/display/ajk/435923de89cea6d2a1e9a22452a55921/180x135c.jpg	https://m.anjuke.com/xa/community/307037/	816户
+花木小区	碑林区	环城南路	长安北路32号	0	2011年	11290	https://pic1.ajkimg.com/display/ajk/d511e798245f695971ef00bb11a04c02/180x135c.jpg	https://m.anjuke.com/xa/community/304347/	372户
+皇族雅苑别墅	碑林区	南稍门	长安北路48号	0		30224	https://pic1.ajkimg.com/display/ajk/376469cbd5b5e5b5b941955081a1237f/180x135c.jpg	https://m.anjuke.com/xa/community/471114/	--
+黄河上游水电公司住宅小区	碑林区	长乐坊	仁厚庄北路7号	0		8833	https://pic1.ajkimg.com/display/ajk/c5dfa52c23a2ea013c26ce9523f47b31/180x135c.jpg	https://m.anjuke.com/xa/community/830662/	56户
+鸿翔小区	碑林区	环城南路	兴庆北路36号	0	2002年	9459	https://pic1.ajkimg.com/display/ajk/ac0b34b70ade9d754fa4da7e4b8a3168/180x135c.jpg	https://m.anjuke.com/xa/community/321081/	72户
+恒佳尊者汇	碑林区	环城南路	长安北路21号	0	2013年	14183	https://pic1.ajkimg.com/display/ajk/af4adb3dd2fed3a09d01eb9833b22571/180x135c.jpg	https://m.anjuke.com/xa/community/467818/	420户
+搪瓷厂家属院	碑林区	长乐坊	中兴路20号	0	2015年	9454	https://pic1.ajkimg.com/display/ajk/a733d7d5af631fc461c0839582c9548e/180x135c.jpg	https://m.anjuke.com/xa/community/830191/	125户
+国土局家属院	碑林区	太乙路	兴庆西路39号	0		9302	https://pic1.ajkimg.com/display/ajk/c9d9647737abbfce17e995e00a028d72/180x135c.jpg	https://m.anjuke.com/xa/community/332071/	114户
+韩森街道新园社区	碑林区	西安交通大学	火炬路5号	0		11696	https://pic1.ajkimg.com/display/ajk/609bca0568deb6d385d9f5b7a9b43c14/180x135c.jpg	https://m.anjuke.com/xa/community/830464/	192户
+市委家属院(文艺路)	碑林区	南稍门	文艺南路198号	0	2007年	10000	https://pic1.ajkimg.com/display/ajk/b4215fd620e214ac84468866ed7784ea/180x135c.jpg	https://m.anjuke.com/xa/community/339040/	864户
+光机所家属院	碑林区	西工大	友谊西路350号	0		11145	https://pic1.ajkimg.com/display/ajk/72346c1603569aa14485c60dce70947f/180x135c.jpg	https://m.anjuke.com/xa/community/830376/	240户
+水文局家属院	碑林区	红缨路	太白北路59号	0	2009年	9215	https://pic1.ajkimg.com/display/ajk/af64e0c2e523d7876f96c7ea5b6c88b8/180x135c.jpg	https://m.anjuke.com/xa/community/519799/	198户
+光荣社区	碑林区	南稍门	朱雀大街	0	2000年	8043	https://pic1.ajkimg.com/display/ajk/e13764709600cc4a26233a1d4a95efa2/180x135c.jpg	https://m.anjuke.com/xa/community/297313/	2996户
+广电局家属院	碑林区	环城南路	测绘西路39号	0	2006年	9166	https://pic1.ajkimg.com/display/ajk/e7fe5b3f6955638bbb2f750fdb914d2a/180x135c.jpg	https://m.anjuke.com/xa/community/503171/	72户
+冠生家园	碑林区	长乐坊	长乐坊102号	0	2001年	9577	https://pic1.ajkimg.com/display/ajk/cd64ed1ac3f27c313b6a9e9d8b86b50c/180x135c.jpg	https://m.anjuke.com/xa/community/306351/	150户
+光大巷办事处家属院	碑林区	红缨路	光大巷3号	0		8811	https://pic1.ajkimg.com/display/ajk/17376a45047164f565a207ea87b4a6bf/180x135c.jpg	https://m.anjuke.com/xa/community/322339/	105户
+光大巷华洋小区	碑林区	何家村	光大南巷2号	0	2004年	10118	https://pic1.ajkimg.com/display/ajk/860b85e2e4af188b1597236ffe33687f/180x135c.jpg	https://m.anjuke.com/xa/community/313378/	297户
+省地震局家属院	碑林区	红缨路	太白北路	0		10352	https://pic1.ajkimg.com/display/ajk/15dbd7dfa4b7dad3fbf273405fab725a/180x135c.jpg	https://m.anjuke.com/xa/community/454360/	380户
+陕西省行政学院家属院(碑林)	碑林区	红缨路	友谊西路175号	0		10000	https://pic1.ajkimg.com/display/ajk/c16b136feb0b04268703c558165afebe/180x135c.jpg	https://m.anjuke.com/xa/community/830008/	312户
+陕西省环境科学研究院家属院	碑林区	环城南路	长安北路49号	0	2008年	9183	https://pic1.ajkimg.com/display/ajk/c0db6b34e9f74df310283f0e8bae01c0/180x135c.jpg	https://m.anjuke.com/xa/community/830011/	86户
+公路设计院	碑林区	红缨路	含光路96号	0	2009年	11440	https://pic1.ajkimg.com/display/ajk/c8059fa6e29ee4c8dff62f8e1cf72126/180x135c.jpg	https://m.anjuke.com/xa/community/318439/	540户
+石榴小院	碑林区	长乐坊	兴庆西路甲字2号	0		9444	https://pic1.ajkimg.com/display/ajk/e6f6676dec8e565d361788cf98c7ba8d/180x135c.jpg	https://m.anjuke.com/xa/community/830098/	36户
+陕一建家属院	碑林区	太乙路	太乙路172号	0	2000年	9285	https://pic1.ajkimg.com/display/ajk/53b03adedfd2d465bba10467267bf5f5/180x135c.jpg	https://m.anjuke.com/xa/community/830039/	294户
+工行机研所家属院	碑林区	南稍门	四民巷45号	0		7379	https://pic1.ajkimg.com/display/ajk/370e1e4a97ac8dfcae91ba32f9227942/180x135c.jpg	https://m.anjuke.com/xa/community/830329/	102户
+省京剧团家属院	碑林区	李家村	文艺北路155号	0		8281	https://pic1.ajkimg.com/display/ajk/f3946aa761d21fd72b41d46e1e390481/180x135c.jpg	https://m.anjuke.com/xa/community/830064/	492户
+陕西省五矿进出口公司家属院	碑林区	长乐坊	柿园路	0		11000	https://pic1.ajkimg.com/display/ajk/36d38d91571c0fe532c99ed7c404814c/180x135c.jpg	https://m.anjuke.com/xa/community/403657/	42户
+陕建八公司边西院住宅小区	碑林区	大学南路	太白北路	0	1998年	11363	https://pic1.ajkimg.com/display/ajk/eb9884f48ee7e37b4d8aa92fcd5af3b2/180x135c.jpg	https://m.anjuke.com/xa/community/373421/	846户
+尚城公馆	碑林区	南稍门	友谊东路,近文艺路	0	2016年	9462	https://pic1.ajkimg.com/display/ajk/875876a45e825eadafd6d6d483504cbf/180x135c.jpg	https://m.anjuke.com/xa/community/830048/	462户
+工艺美术家属院	碑林区	李家村	雁塔中路41号	0		8716	https://pic1.ajkimg.com/display/ajk/c3265a1122c35a00a270e9d9f3391a98/180x135c.jpg	https://m.anjuke.com/xa/community/830345/	36户
+福泰公司家属院	碑林区	环城南路	亘垣堡13号	0	1998年	8909	https://pic1.ajkimg.com/display/ajk/b68dc6722fc0f3cc3c1dbdb08549adcc/180x135c.jpg	https://m.anjuke.com/xa/community/830276/	172户
+陕西省审计厅家属院	碑林区	西工大	西工大路3号	0	1998年	8318	https://pic1.ajkimg.com/display/ajk/7ccbc3841de87cf683e86013d198f02a/180x135c.jpg	https://m.anjuke.com/xa/community/830019/	252户
+陕西省戏曲研究院家属院	碑林区	文艺路	文艺北路	0		13815	https://pic1.ajkimg.com/display/ajk/775aafe4503bc1cc0c1b09d7f26b57f7/180x135c.jpg	https://m.anjuke.com/xa/community/424977/	509户
+省新闻出版局家属院	碑林区	环城南路	德福巷22号	0	2015年	12000	https://pic1.ajkimg.com/display/ajk/3c3e72350ef67b29a74090b259b737a2/180x135c.jpg	https://m.anjuke.com/xa/community/422255/	48户
+陕西省水文水资源勘测局家属院	碑林区	何家村	太白北路59号	0	2015年	11153	https://pic1.ajkimg.com/display/ajk/5052b46964a5f6ce2157354366cea3f5/180x135c.jpg	https://m.anjuke.com/xa/community/830023/	90户
+上院	碑林区	文艺路	文艺南路64号	0	2009年	12260	https://pic1.ajkimg.com/display/ajk/cbba2d7332d64373c9f6df27815a3b58/180x135c.jpg	https://m.anjuke.com/xa/community/620259/	99户
+陕西省戏曲研究院长胜街家属院	碑林区	李家村	长胜街106号	0	2015年	8181	https://pic1.ajkimg.com/display/ajk/a68ee5defe3b35b34eb967a279aa794d/180x135c.jpg	https://m.anjuke.com/xa/community/830027/	640户
+陕建八公司向阳院住宅小区	碑林区	边家村	友谊西路297号	0	2015年	12751	https://pages.anjukestatic.com/usersite/touch/img/global/defaultImg/list-deft-img.png	https://m.anjuke.com/xa/community/829958/	--
+省石化厅家属院	碑林区	西安交通大学	经九路5号	0	1998年	10937	https://pic1.ajkimg.com/display/ajk/0ea73dbe35a9f77a80edf7987e0a21cb/180x135c.jpg	https://m.anjuke.com/xa/community/830072/	144户
+陕西省工信厅家属院	碑林区	长乐坊	金花北路156号	0		8604	https://pic1.ajkimg.com/display/ajk/2c5626aed71c26415630d31b392bd559/180x135c.jpg	https://m.anjuke.com/xa/community/830001/	80户
+陕西广播电视大学家属院	碑林区	环城南路	含光北路32号	0	2009年	10333	https://pic1.ajkimg.com/display/ajk/a8db73cd86549ea7a2d0afe5e24c551f/180x135c.jpg	https://m.anjuke.com/xa/community/829978/	192户
+芙蓉苑小区	碑林区	东关南街	咸宁西路18号	0	2004年	11428	https://pic1.ajkimg.com/display/ajk/26ca181f0b2944c0d9ed9f0939416f48/180x135c.jpg	https://m.anjuke.com/xa/community/830271/	147户
+东方紫韵	碑林区	大差市	东大街132号	0	2013年	16808	https://pic1.ajkimg.com/display/ajk/a44d336e183f8c574ba0277aa20aa9f9/180x135c.jpg	https://m.anjuke.com/xa/community/790151/	516户
+陕建三公司家属院	碑林区	环城南路	咸宁西路,近环城东路南段	0	2000年	8202	https://pic1.ajkimg.com/display/ajk/e4f38f990824d9af1933e90e341b6df3/180x135c.jpg	https://m.anjuke.com/xa/community/378307/	124户
+陕建十一公司家属院	碑林区	大学南路	建东街	0	2015年	12307	https://pic1.ajkimg.com/display/ajk/e7c5d61393993023b76aa924bb36910d/180x135c.jpg	https://m.anjuke.com/xa/community/829964/	168户
+陕工局家属院	碑林区	边家村	水文巷	0	2015年	12882	https://pic1.ajkimg.com/display/ajk/93227c510b3ce1ff43cf77cadc7feeeb/180x135c.jpg	https://m.anjuke.com/xa/community/829951/	264户
+三中家属院	碑林区	长乐坊	东新巷50号	0	2015年	8000	https://pic1.ajkimg.com/display/ajk/b70c4ce84f0ebd7140d73faabf2766c2/180x135c.jpg	https://m.anjuke.com/xa/community/508541/	144户
