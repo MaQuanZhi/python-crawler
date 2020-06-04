@@ -1,1 +1,1 @@
-# practice
+# 一些学习Python的小项目，主要是爬虫
